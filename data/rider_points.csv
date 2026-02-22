@@ -1,0 +1,918 @@
+Name,Team,Nationality,Length,Weight,Age,AVG,FLT,COB,HLL,MTN,SPR,ITT,GC,OR
+Michael Gogl,Alpecin-Deceuninck,Austria,186,71,31,50,39,46,53,31,36,27,38,55
+Quinten Hermans,Alpecin-Deceuninck,Belgium,174,62,29,81,67,72,86,44,67,28,44,87
+Edward Planckaert,Alpecin-Deceuninck,Belgium,178,71,29,63,54,67,44,32,62,20,40,64
+Silvan Dillier,Alpecin-Deceuninck,Switzerland,183,75,34,58,48,61,49,35,51,28,40,63
+Robbe Ghys,Alpecin-Deceuninck,Belgium,182,72,28,53,44,42,36,23,61,20,35,52
+Jasper Philipsen,Alpecin-Deceuninck,Belgium,176,75,26,96,96,94,86,32,99,36,55,97
+Oscar Riesebeek,Alpecin-Deceuninck,Netherlands,191,78,32,54,47,60,46,24,37,30,36,52
+Luca Vergallito,Alpecin-Deceuninck,Italy,190,67,27,55,31,20,59,45,31,20,47,46
+Samuel Gaze,Alpecin-Deceuninck,New-Zealand,189,80,29,37,32,31,34,23,35,20,25,36
+Kaden Groves,Alpecin-Deceuninck,Australia,176,76,26,85,83,61,73,40,92,23,41,79
+Jimmy Janssens,Alpecin-Deceuninck,Belgium,183,74,35,47,37,20,51,29,37,30,39,43
+Stan Van Tricht,Alpecin-Deceuninck,Belgium,174,64,25,72,63,73,72,23,58,24,29,85
+Juri Hollmann,Alpecin-Deceuninck,Germany,184,70,25,47,38,43,48,41,43,33,37,53
+Tobias Bayer,Alpecin-Deceuninck,Austria,187,71,25,55,46,34,58,30,53,33,39,61
+Johan Price-Pejtersen,Alpecin-Deceuninck,Denmark,196,77,25,62,55,20,30,23,25,76,31,44
+Timo Kielich,Alpecin-Deceuninck,Belgium,185,73,25,75,70,80,64,24,61,20,33,80
+Fabio Van den Bossche,Alpecin-Deceuninck,Belgium,176,63,24,49,41,39,50,24,47,25,36,58
+Gianni Vermeersch,Alpecin-Deceuninck,Belgium,173,68,32,86,88,93,78,32,64,24,40,90
+Jensen Plowright,Alpecin-Deceuninck,Australia,177,78,24,66,58,28,43,22,82,20,29,62
+Simon Dehairs,Alpecin-Deceuninck,Belgium,192,82,23,68,63,45,41,25,79,20,26,76
+Henri Uhlig,Alpecin-Deceuninck,Germany,181,71,23,58,52,35,56,28,64,20,34,62
+Lars Boven,Alpecin-Deceuninck,Netherlands,172,62,23,55,48,52,51,25,55,27,31,61
+Ramses Debruyne,Alpecin-Deceuninck,Belgium,179,66,22,45,40,34,48,24,39,20,25,53
+Gal Glivar,Alpecin-Deceuninck,Slovenia,171,62,22,51,45,26,44,27,41,43,36,43
+Emiel Verstrynge,Alpecin-Deceuninck,Belgium,190,70,22,46,42,49,43,39,32,20,31,47
+Xandro Meurisse,Alpecin-Deceuninck,Belgium,181,71,32,73,56,43,84,39,48,37,45,84
+Tibor Del Grosso,Alpecin-Deceuninck,Netherlands,190,0,21,53,51,42,54,26,47,27,32,61
+Mathieu van der Poel,Alpecin-Deceuninck,Netherlands,184,75,30,97,97,99,93,39,90,70,53,98
+Jonas Rickaert,Alpecin-Deceuninck,Belgium,187,88,30,58,54,49,38,26,65,24,33,60
+Martin Tjøtta,ARKEA-B&B HOTELS,Norway,0,0,24,35,26,20,36,32,26,20,29,37
+Mathis Le Berre,ARKEA-B&B HOTELS,France,176,68,23,61,48,58,62,43,53,20,39,70
+Miles Scotson,ARKEA-B&B HOTELS,Australia,191,76,31,50,43,47,39,23,53,28,33,54
+Embret Svestad-Bårdseng,ARKEA-B&B HOTELS,Norway,185,0,22,45,31,20,46,42,30,23,39,41
+Clément Venturini,ARKEA-B&B HOTELS,France,165,60,31,77,64,33,83,36,73,20,44,90
+Raúl García,ARKEA-B&B HOTELS,Spain,175,67,23,69,55,20,61,41,43,71,56,58
+Giosue Epis,ARKEA-B&B HOTELS,Italy,169,64,22,40,40,38,34,22,41,20,26,42
+Ewen Costiou,ARKEA-B&B HOTELS,France,176,64,22,66,52,20,70,47,52,37,57,70
+Louis Rouland,ARKEA-B&B HOTELS,France,184,55,22,37,30,20,39,34,27,20,30,39
+Arnaud Démare,ARKEA-B&B HOTELS,France,181,76,33,81,83,49,62,27,91,30,33,90
+Florian Sénéchal,ARKEA-B&B HOTELS,France,179,77,31,71,66,74,59,24,67,26,36,74
+Simon Guglielmi,ARKEA-B&B HOTELS,France,180,66,27,64,43,20,68,59,52,20,42,65
+Pierre Thierry,ARKEA-B&B HOTELS,France,185,0,21,42,42,35,41,35,41,36,29,50
+Thibault Guernalec,ARKEA-B&B HOTELS,France,185,71,27,66,56,20,43,27,40,77,45,57
+Léandre Lozouet,ARKEA-B&B HOTELS,France,184,0,20,39,35,33,35,24,39,20,25,47
+Elie Gesbert,ARKEA-B&B HOTELS,France,181,63,29,58,42,33,62,48,38,20,44,63
+Alessandro Verre,ARKEA-B&B HOTELS,Italy,170,59,23,64,47,20,70,41,39,47,44,69
+Jenthe Biermans,ARKEA-B&B HOTELS,Belgium,184,78,29,80,73,79,77,29,78,20,32,90
+Cristian Rodriguez,ARKEA-B&B HOTELS,Spain,178,59,29,85,44,31,78,86,43,37,84,59
+Amaury Capiot,ARKEA-B&B HOTELS,Belgium,186,69,31,81,71,67,66,32,87,25,32,85
+Michel Ries,ARKEA-B&B HOTELS,Luxembourg,184,67,26,54,40,20,55,55,32,39,50,56
+Kévin Vauquelin,ARKEA-B&B HOTELS,France,176,69,23,87,73,36,90,59,59,88,71,87
+Donavan Grondin,ARKEA-B&B HOTELS,France,184,77,24,59,48,44,43,25,66,20,34,60
+Luca Mozzato,ARKEA-B&B HOTELS,Italy,178,67,26,89,90,91,78,26,90,20,36,92
+Laurens Huys,ARKEA-B&B HOTELS,Belgium,162,61,26,54,39,40,57,46,36,22,46,57
+Anthony Delaplace,ARKEA-B&B HOTELS,France,181,65,35,60,49,31,64,38,50,35,41,70
+Victor Guernalec,ARKEA-B&B HOTELS,France,0,0,24,28,24,20,27,24,24,20,28,24
+Alberto Bruttomesso,Bahrain Victorious,Italy,179,0,21,48,41,39,39,22,53,20,28,40
+Daniel Skerl,Bahrain Victorious,Italy,177,78,21,38,37,25,29,20,44,20,22,39
+Lenny Martinez,Bahrain Victorious,France,168,52,21,88,59,20,90,89,43,64,75,89
+Matej Mohoric,Bahrain Victorious,Slovenia,186,72,30,89,88,90,89,62,83,55,74,91
+Vlad Van Mechelen,Bahrain Victorious,Belgium,183,0,20,42,42,37,39,23,40,32,30,43
+Phil Bauhaus,Bahrain Victorious,Germany,184,71,30,78,80,29,55,22,93,20,32,64
+Santiago Buitrago,Bahrain Victorious,Colombia,174,59,25,90,59,30,89,90,60,68,89,80
+Oliver Stockwell,Bahrain Victorious,Great-Britain,182,0,22,34,30,20,36,28,29,21,30,35
+Roman Ermakov,Bahrain Victorious,Russia,0,0,20,41,36,35,43,27,27,20,28,49
+Fran Miholjevic,Bahrain Victorious,Croatia,189,72,22,45,40,43,45,35,34,39,35,51
+Afonso Eulalio,Bahrain Victorious,Portugal,174,62,23,44,29,20,45,45,29,20,36,41
+Finlay Pickering,Bahrain Victorious,Great-Britain,174,55,22,41,29,20,34,44,25,32,38,33
+Andrea Pasqualon,Bahrain Victorious,Italy,174,68,37,78,68,82,66,36,74,24,37,78
+Torstein Træen,Bahrain Victorious,Norway,181,63,29,63,37,20,60,63,37,32,58,46
+Mathijs Paasschens,Bahrain Victorious,Netherlands,188,75,28,56,44,46,59,30,48,20,38,65
+Robert Stannard,Bahrain Victorious,Australia,179,74,26,55,42,47,57,36,51,24,46,53
+Pello Bilbao,Bahrain Victorious,Spain,174,60,34,90,69,30,91,85,65,68,88,90
+Sergio Tu,Bahrain Victorious,Taiwan,178,63,27,32,32,20,23,21,24,35,25,31
+Nikias Arndt,Bahrain Victorious,Germany,187,775,33,73,63,55,57,32,80,48,42,66
+Fred Wright,Bahrain Victorious,Great-Britain,184,75,25,85,81,90,70,42,76,67,51,85
+Kamil Gradek,Bahrain Victorious,Poland,194,81,34,47,42,50,30,24,38,43,36,44
+Damiano Caruso,Bahrain Victorious,Italy,179,67,37,84,53,26,69,88,60,62,82,44
+Matevz Govekar,Bahrain Victorious,Slovenia,180,73,24,69,57,37,62,30,73,37,35,60
+Antonio Tiberi,Bahrain Victorious,Italy,182,62,23,89,70,20,79,88,56,86,87,58
+Edoardo Zambanini,Bahrain Victorious,Italy,181,62,23,81,52,20,88,67,59,40,65,85
+Nicolò Buratti,Bahrain Victorious,Italy,176,0,23,48,42,33,48,28,51,21,32,51
+Max van der Meulen,Bahrain Victorious,Netherlands,183,67,21,37,34,25,37,35,34,25,34,39
+Rainer Kepplinger,Bahrain Victorious,Austria,179,70,27,63,43,20,46,46,34,58,48,36
+Zak Erzen,Bahrain Victorious,Slovenia,0,0,19,34,32,30,32,20,34,20,21,40
+Jack Haig,Bahrain Victorious,Australia,190,67,31,79,46,29,71,81,53,51,76,49
+Hugo de la Calle,Burgos Burpellet BH,Spain,180,65,20,20,20,20,20,20,20,20,20,20
+Josh Burnett,Burgos Burpellet BH,New-Zealand,187,73,24,36,31,24,34,35,29,20,35,33
+Eric Fagundez,Burgos Burpellet BH,Uruguay,180,67,26,56,43,20,59,45,43,20,51,54
+Merhawi Kudus,Burgos Burpellet BH,Eritrea,173,58,31,54,40,20,49,54,50,32,51,52
+Daniel Cavia,Burgos Burpellet BH,Spain,169,63,22,20,20,20,20,20,20,20,20,20
+David Delgado,Burgos Burpellet BH,Spain,174,53,24,36,23,20,27,41,23,20,26,31
+Antonio Angulo,Burgos Burpellet BH,Spain,175,67,32,50,40,20,45,26,54,20,33,53
+Jose Luis Faura Asensio,Burgos Burpellet BH,Spain,182,67,24,30,24,20,31,29,24,20,25,32
+Carlos Garcia,Burgos Burpellet BH,Spain,171,58,25,36,28,20,37,36,29,20,29,42
+Angel Fuentes,Burgos Burpellet BH,Spain,190,77,28,43,39,20,38,21,43,35,33,45
+Clément Alleno,Burgos Burpellet BH,France,180,69,24,44,36,20,45,31,41,20,33,51
+Jambaljamts Sainbayar,Burgos Burpellet BH,Mongolia,171,60,28,54,54,20,49,37,46,54,48,52
+Sinuhé Fernandez,Burgos Burpellet BH,Spain,180,60,24,37,27,20,39,26,30,20,31,39
+Jose Manuel Diaz,Burgos Burpellet BH,Spain,177,64,30,64,41,20,69,56,39,20,53,65
+George Jackson,Burgos Burpellet BH,New Zealand,188,75,24,51,43,20,38,25,56,30,38,39
+Rodrigo Álvarez,Burgos Burpellet BH,Spain,175,65,25,39,36,20,33,29,42,20,30,37
+Ander Okamika,Burgos Burpellet BH,Spain,190,70,31,52,39,20,54,46,41,27,46,51
+Vojtech Kminek,Burgos Burpellet BH,Czech Republic,187,75,24,28,25,20,30,20,23,20,20,30
+Sergio Chumil,Burgos Burpellet BH,Guatemala,167,62,24,47,33,20,41,50,31,41,29,40
+Mario Aparicio,Burgos Burpellet BH,Spain,185,69,24,47,28,20,38,46,33,20,47,35
+David Martin,Burgos Burpellet BH,Spain,177,68,25,53,43,20,33,22,64,20,26,54
+Georgios Boúglas,Burgos Burpellet BH,Greece,181,71,34,51,44,20,40,27,59,27,32,46
+Tomoya Koyama,Burgos Burpellet BH,Japan,173,68,26,24,22,20,21,20,24,20,23,20
+Samuel Fernández Garcia,Caja Rural-Seguros RGA,Spain,176,57,21,35,29,20,38,29,30,20,28,37
+Jan Castellon,Caja Rural-Seguros RGA,Spain,170,55,21,21,20,20,20,20,20,20,22,20
+Gorka Sorarrain,Caja Rural-Seguros RGA,Spain,185,76,28,47,39,20,49,26,46,20,37,53
+Abel Balderstone,Caja Rural-Seguros RGA,Spain,179,61,24,42,29,21,32,46,27,32,38,37
+Thomas Silva,Caja Rural-Seguros RGA,Uruguay,175,64,23,67,49,20,75,41,53,20,45,74
+Julen Arriola-Bengoa,Caja Rural-Seguros RGA,Spain,174,52,23,40,31,20,44,27,32,20,27,44
+Joseba Lopez,Caja Rural-Seguros RGA,Spain,181,66,24,47,35,20,50,27,42,20,29,55
+Eduard Prades,Caja Rural-Seguros RGA,Spain,178,63,37,66,45,20,74,34,50,20,37,77
+Alex Diaz,Caja Rural-Seguros RGA,Spain,167,62,23,24,22,20,23,20,24,20,23,24
+Javier Ibanez,Caja Rural-Seguros RGA,Spain,188,67,23,25,23,20,24,22,25,20,24,20
+Jaume Guardeño,Caja Rural-Seguros RGA,Spain,175,62,21,44,29,20,38,46,33,25,38,39
+Sergi Darder,Caja Rural-Seguros RGA,Spain,173,67,21,42,36,20,29,21,50,20,26,37
+Fernando Barceló,Caja Rural-Seguros RGA,Spain,173,62,29,68,48,20,75,42,56,20,44,73
+Joan Bou,Caja Rural-Seguros RGA,Spain,182,62,28,57,36,20,57,53,40,20,51,49
+Jakub Otruba,Caja Rural-Seguros RGA,Czech Republic,190,75,26,56,43,20,38,44,30,50,46,38
+Tyler Stites,Caja Rural-Seguros RGA,United States,178,60,26,54,50,24,49,36,48,42,36,42
+Joel Nicolau,Caja Rural-Seguros RGA,Spain,176,66,27,65,48,33,72,37,54,20,40,74
+Iuri Leitao,Caja Rural-Seguros RGA,Portugal,175,65,26,58,49,20,34,21,64,43,35,28
+Sebastian Berwick,Caja Rural-Seguros RGA,Australia,175,59,25,47,38,20,47,41,33,23,45,34
+Daniel Babor,Caja Rural-Seguros RGA,Czech Republic,179,79,25,54,48,20,32,21,67,20,29,48
+Abner González,Caja Rural-Seguros RGA,Puerto Rico,174,60,24,43,30,20,42,43,33,20,39,41
+Alex Molenaar,Caja Rural-Seguros RGA,Netherlands,184,63,25,46,40,20,48,29,44,36,38,47
+Calum Johnston,Caja Rural-Seguros RGA,Great Britain,173,55,26,40,32,25,42,29,37,20,28,46
+Francisco Peñuela,Caja Rural-Seguros RGA,Venezuela,175,56,23,36,29,20,37,26,33,20,30,33
+Clement Izquierdo,Cofidis,France,0,0,22,29,28,20,28,23,26,20,26,27
+Ludovic Robeet,Cofidis,Belgium,194,75,30,50,43,49,40,23,51,23,30,58
+Bryan Coquard,Cofidis,France,171,59,32,81,78,46,73,34,91,29,45,78
+Aimé De Gendt,Cofidis,Belgium,182,75,30,68,58,72,54,26,56,29,42,75
+Anthony Perez,Cofidis,France,190,70,33,64,53,20,69,36,51,46,43,76
+Jan Maas,Cofidis,Netherlands,189,69,28,49,38,36,51,30,44,20,39,54
+Damien Touzé,Cofidis,France,174,69,28,63,53,67,53,30,53,39,44,67
+Alex Aranburu,Cofidis,Spain,178,63,29,86,75,68,90,57,81,40,58,92
+Nolann Mahoudo,Cofidis,France,171,61,22,50,42,41,50,26,47,20,28,61
+Piet Allegaert,Cofidis,Belgium,181,70,30,78,69,75,55,25,83,20,36,83
+Ion Izagirre,Cofidis,Spain,173,60,35,85,67,23,91,67,56,51,71,90
+Paul Ourselin,Cofidis,France,185,70,30,54,41,20,56,46,42,23,47,58
+Oliver Knight,Cofidis,Great Britain,0,0,24,37,36,20,36,21,33,37,26,42
+Stanislaw Aniolkowski,Cofidis,Poland,181,68,28,79,71,62,52,24,90,20,37,78
+Eddy Finé,Cofidis,France,180,70,27,51,41,32,54,26,47,20,31,63
+Jesus Herrada,Cofidis,Spain,183,70,34,72,50,20,81,56,46,39,53,74
+Sam Maisonobe,Cofidis,France,0,0,21,27,25,20,29,20,24,20,23,25
+Sylvain Moniquet,Cofidis,Belgium,175,61,27,71,47,20,77,62,39,41,59,71
+Alexis Renard,Cofidis,France,186,74,25,76,66,71,51,25,82,31,36,81
+Milan Fretin,Cofidis,Belgium,182,70,23,78,75,42,52,23,91,20,36,88
+Nicolas Debeaumarché,Cofidis,France,189,75,26,42,35,29,39,23,43,20,33,48
+Benjamin Thomas,Cofidis,France,179,68,29,70,58,28,66,31,68,61,44,62
+Stefano Oldani,Cofidis,Italy,178,65,27,72,56,20,73,41,77,25,43,81
+Hugo Toumire,Cofidis,France,180,69,23,44,34,20,46,36,36,20,35,50
+Jonathan Lastra,Cofidis,Spain,172,64,31,63,42,20,68,39,48,23,48,71
+Sergio Samitier,Cofidis,Spain,181,63,29,56,37,20,61,41,42,20,37,68
+Emanuel Buchmann,Cofidis,Germany,180,59,32,73,40,20,71,73,43,25,73,58
+Dylan Teuns,Cofidis,Belgium,181,64,32,84,66,81,88,68,54,41,59,89
+Simon Carr,Cofidis,Great Britain,183,63,26,62,43,20,60,64,38,43,44,60
+Valentin Ferron,Cofidis,France,174,67,26,62,50,20,68,34,48,29,39,75
+Bruno Armirail,Decathlon AG2R La Mondiale Team,France,190,74,30,82,74,20,61,67,47,91,63,64
+Andrea Vendrame,Decathlon AG2R La Mondiale Team,Italy,168,60,30,82,62,20,87,66,76,30,43,86
+Oliver Naesen,Decathlon AG2R La Mondiale Team,Belgium,184,74,34,87,81,91,67,38,87,23,48,90
+Aurélien Paret-Peintre,Decathlon AG2R La Mondiale Team,France,184,64,28,84,57,48,87,82,56,46,73,81
+Dries De Bondt,Decathlon AG2R La Mondiale Team,Belgium,185,73,33,77,70,83,60,25,65,20,35,84
+Sam Bennett,Decathlon AG2R La Mondiale Team,Ireland,178,73,34,80,78,44,61,28,91,32,48,65
+Benoît Cosnefroy,Decathlon AG2R La Mondiale Team,France,180,65,29,83,73,55,91,47,68,23,58,92
+Stan Dewulf,Decathlon AG2R La Mondiale Team,Belgium,176,74,27,70,60,74,62,39,59,34,57,73
+Dorian Godon,Decathlon AG2R La Mondiale Team,France,191,73,28,83,65,26,89,47,74,37,50,88
+Victor Lafay,Decathlon AG2R La Mondiale Team,France,177,65,29,73,47,20,83,48,46,20,58,74
+Nicolas Prodhomme,Decathlon AG2R La Mondiale Team,France,174,62,27,72,45,20,76,70,47,36,60,71
+Callum Scotson,Decathlon AG2R La Mondiale Team,Australia,183,77,28,56,38,20,45,56,32,50,56,37
+Stefan Bissegger,Decathlon AG2R La Mondiale Team,Switzerland,181,78,26,87,86,77,51,34,80,91,42,85
+Sander De Pestel,Decathlon AG2R La Mondiale Team,Belgium,184,74,26,70,60,76,53,27,61,42,31,74
+Felix Gall,Decathlon AG2R La Mondiale Team,Austria,180,66,26,89,51,26,84,91,52,47,88,71
+Clément Berthet,Decathlon AG2R La Mondiale Team,France,184,68,27,81,52,20,85,81,49,27,68,81
+Tord Gudmestad,Decathlon AG2R La Mondiale Team,Norway,187,0,23,69,58,43,45,24,79,20,24,77
+Bastien Tronchon,Decathlon AG2R La Mondiale Team,France,185,72,22,67,43,43,77,38,47,22,42,73
+Jordan Labrosse,Decathlon AG2R La Mondiale Team,France,178,65,22,50,44,39,50,22,50,20,28,61
+Johannes Staune-Mittet,Decathlon AG2R La Mondiale Team,Norway,182,0,23,57,36,20,59,53,33,33,51,51
+Rasmus Søjberg Pedersen,Decathlon AG2R La Mondiale Team,Denmark,182,73,22,51,50,33,39,27,56,40,31,53
+Gianluca Pollefliet,Decathlon AG2R La Mondiale Team,Belgium,180,74,22,54,45,35,35,22,64,20,28,53
+Pierre Gautherat,Decathlon AG2R La Mondiale Team,France,177,70,22,79,69,80,69,25,76,25,37,89
+Noa Isidore,Decathlon AG2R La Mondiale Team,France,180,67,20,48,46,40,49,29,44,28,38,54
+Geoffrey Bouchard,Decathlon AG2R La Mondiale Team,France,177,63,32,54,33,20,45,57,31,24,48,37
+Léo Bisiaux,Decathlon AG2R La Mondiale Team,France,178,52,19,37,27,24,32,40,26,20,31,32
+Oscar Chamberlain,Decathlon AG2R La Mondiale Team,Australia,194,74,20,37,38,27,31,20,34,38,24,40
+Nans Peters,Decathlon AG2R La Mondiale Team,France,177,71,30,69,48,20,76,53,48,34,47,75
+Paul Lapeira,Decathlon AG2R La Mondiale Team,France,176,64,24,80,62,40,88,43,73,27,39,90
+Yuhi Todome,EF Education-EasyPost,Japan,176,0,22,43,39,31,44,27,40,36,25,50
+Alex Baudin,EF Education-EasyPost,France,183,66,23,78,51,20,81,68,49,41,73,78
+Madis Mihkels,EF Education-EasyPost,Estonia,184,75,21,84,75,82,63,24,89,20,33,87
+Jack Rootkin-Gray,EF Education-EasyPost,Great Britain,178,67,22,43,38,30,45,23,39,23,30,49
+Jardi Van Der Lee,EF Education-EasyPost,Netherlands,185,0,23,35,28,20,32,36,27,20,31,35
+Max Walker,EF Education-EasyPost,Great Britain,0,0,23,50,45,27,40,25,36,48,39,47
+Rui Costa,EF Education-EasyPost,Portugal,182,69,38,79,62,48,88,50,56,56,53,86
+Darren Rafferty,EF Education-EasyPost,Ireland,176,65,21,63,53,26,60,53,37,61,46,65
+Markel Beloki,EF Education-EasyPost,Spain,183,0,19,38,35,20,31,26,30,41,31,37
+Richard Carapaz,EF Education-EasyPost,Ecuador,170,62,31,91,53,20,87,92,61,47,90,79
+Kasper Asgreen,EF Education-EasyPost,Denmark,192,75,29,84,82,74,66,38,68,90,47,81
+Esteban Chaves,EF Education-EasyPost,Colombia,164,55,35,71,45,20,72,73,49,25,63,64
+Alexander Cepeda,EF Education-EasyPost,Ecuador,164,56,26,64,35,20,54,67,35,20,58,46
+Vincenzo Albanese,EF Education-EasyPost,Italy,175,70,28,87,77,84,89,42,78,27,48,91
+James Shaw,EF Education-EasyPost,Great Britain,179,63,28,56,39,29,59,54,38,36,46,58
+Mikkel Honore,EF Education-EasyPost,Denmark,185,68,28,72,54,51,77,54,62,39,51,83
+Neilson Powless,EF Education-EasyPost,United States,183,67,28,86,80,80,90,66,68,70,64,92
+Harry Sweeny,EF Education-EasyPost,Australia,186,75,26,61,50,42,54,44,45,58,44,55
+Lukas Nerurkar,EF Education-EasyPost,Great Britain,177,0,21,67,43,20,75,43,48,28,35,76
+Georg Steinhauser,EF Education-EasyPost,Germany,189,65,23,72,47,20,69,79,40,43,44,71
+Sean Quinn,EF Education-EasyPost,United States,187,67,24,54,40,20,54,48,43,43,48,50
+Samuele Battistella,EF Education-EasyPost,Italy,180,67,26,67,51,29,73,41,59,33,48,67
+Marijn van den Berg,EF Education-EasyPost,Netherlands,182,73,25,83,76,54,77,31,91,36,50,85
+Owain Doull,EF Education-EasyPost,Great Britain,181,71,31,69,59,70,60,28,65,39,39,75
+Alastair Mackellar,EF Education-EasyPost,Australia,184,69,23,39,35,20,40,33,29,35,28,43
+Michael Valgren,EF Education-EasyPost,Denmark,179,71,32,72,61,73,68,45,67,29,38,75
+Archie Ryan,EF Education-EasyPost,Ireland,172,56,23,72,48,20,82,52,40,28,44,77
+Ben Healy,EF Education-EasyPost,Ireland,175,65,24,84,74,57,91,61,61,73,62,91
+Hugh Carthy,EF Education-EasyPost,Great Britain,193,69,30,69,38,20,65,70,36,40,68,45
+Pau Miquel Delgado,Equipo Kern Pharma,Spain,180,65,24,68,56,37,73,38,72,24,37,75
+Diego Uriarte,Equipo Kern Pharma,Spain,180,67,23,30,27,20,28,25,31,20,28,33
+Mikel Retegi,Equipo Kern Pharma,Spain,177,64,23,40,32,20,43,24,36,20,30,45
+Unai Aznar,Equipo Kern Pharma,Spain,175,68,22,28,26,20,25,24,20,30,24,27
+Jorge Gutiérrez,Equipo Kern Pharma,Spain,176,58,22,44,25,20,30,47,27,20,42,34
+Mats Wenzel,Equipo Kern Pharma,Luxembourg,187,68,22,42,35,28,44,30,31,29,35,45
+Pablo Carrascosa,Equipo Kern Pharma,Spain,178,58,22,27,21,20,22,29,22,20,25,20
+Haimar Etxeberria,Equipo Kern Pharma,Spain,177,65,21,35,29,20,38,22,28,20,23,39
+Hugo Aznar,Equipo Kern Pharma,Spain,168,59,21,33,29,20,36,24,25,28,24,32
+Ibai Azanza,Equipo Kern Pharma,Spain,193,74,20,24,22,20,22,24,21,22,23,21
+Nil Gimeno,Equipo Kern Pharma,Spain,174,60,20,24,23,20,25,24,21,20,22,20
+Antonio Soto,Equipo Kern Pharma,Spain,175,66,30,59,50,37,46,26,67,23,32,60
+Miguel Angel Fernandez,Equipo Kern Pharma,Spain,185,78,27,52,44,20,35,26,62,20,27,36
+Iñigo Elosegui,Equipo Kern Pharma,Spain,188,75,26,40,35,32,41,27,36,23,35,42
+Francisco Galván,Equipo Kern Pharma,Spain,176,69,27,60,51,38,52,26,65,20,34,73
+Urko Berrade,Equipo Kern Pharma,Spain,184,72,27,66,48,20,73,53,41,43,49,52
+José Félix Parra,Equipo Kern Pharma,Spain,171,55,28,66,31,20,45,71,34,20,63,45
+Ivan Sosa,Equipo Kern Pharma,Colombia,168,52,27,68,35,20,56,72,34,20,59,53
+Marc Brustenga,Equipo Kern Pharma,Spain,190,80,25,46,38,29,34,24,54,20,28,42
+Unai Iribar,Equipo Kern Pharma,Spain,183,64,25,54,39,20,57,45,41,20,44,59
+Ivan Cobo,Equipo Kern Pharma,Spain,186,64,25,44,31,20,47,34,36,20,37,41
+Ibon Ruiz,Equipo Kern Pharma,Spain,178,65,25,48,36,20,51,41,39,20,42,52
+Louis Sutton,Euskaltel-Euskadi,Great Britain,0,0,22,33,30,20,34,30,30,20,24,31
+Paul Hennequin,Euskaltel-Euskadi,France,175,64,22,52,48,28,40,24,61,20,30,43
+Xabier Berasategi,Euskaltel-Euskadi,Spain,0,0,24,58,46,35,62,34,54,20,34,70
+Unai Zubeldia,Euskaltel-Euskadi,Spain,187,72,21,30,28,20,31,22,29,20,23,35
+Xabier Isasa,Euskaltel-Euskadi,Spain,185,0,23,47,39,34,49,27,46,24,34,53
+Iker Mintegi,Euskaltel-Euskadi,Spain,0,0,22,42,32,20,47,27,33,20,28,48
+Iker Bonillo,Euskaltel-Euskadi,Spain,0,0,21,39,33,20,31,22,44,20,25,39
+Victor De La Parte,Euskaltel-Euskadi,Spain,181,64,38,47,36,20,50,41,33,31,42,48
+Nicolas Alustiza,Euskaltel-Euskadi,Spain,185,0,22,32,27,20,33,23,32,20,24,38
+Andoni Lopez de Abetxuko,Euskaltel-Euskadi,Spain,185,74,25,50,44,29,41,26,57,20,26,50
+Jordi Lopez,Euskaltel-Euskadi,Spain,170,59,26,47,34,20,49,36,37,20,43,51
+Gotzon Martín,Euskaltel-Euskadi,Spain,0,0,28,60,50,39,62,36,61,20,42,66
+Danny van der Tuuk,Euskaltel-Euskadi,Poland,180,64,25,38,34,27,38,27,31,35,27,45
+Ander Ganzabal,Euskaltel-Euskadi,Spain,176,62,25,27,24,20,27,20,28,20,20,30
+Jon Aberasturi,Euskaltel-Euskadi,Spain,173,69,35,67,57,31,45,24,82,20,32,65
+David Dekker,Euskaltel-Euskadi,Netherlands,190,80,26,64,56,45,38,23,76,25,32,63
+Txomin Juaristi,Euskaltel-Euskadi,Spain,182,675,29,52,44,20,48,45,38,48,44,48
+Jon Agirre,Euskaltel-Euskadi,Spain,173,55,27,46,31,20,45,47,31,20,40,42
+Jokin Murguialday,Euskaltel-Euskadi,Spain,173,57,24,42,29,25,36,42,31,20,39,37
+Mikel Bizkarra,Euskaltel-Euskadi,Spain,165,53,35,62,30,20,44,66,29,25,61,43
+Marton Dina,Euskaltel-Euskadi,Hungary,186,67,28,50,42,20,47,45,32,34,44,43
+Rémy Rochas,Groupama-FDJ,France,164,51,28,69,46,20,77,50,48,28,58,65
+Kevin Geniets,Groupama-FDJ,Luxembourg,193,73,28,69,55,53,74,56,50,36,49,75
+David Gaudu,Groupama-FDJ,France,172,53,28,90,62,43,89,90,56,54,90,83
+Valentin Madouas,Groupama-FDJ,France,179,71,28,89,84,90,92,72,71,38,71,94
+Clément Davy,Groupama-FDJ,France,183,73,26,45,42,41,39,27,34,46,36,47
+Johan Jacobs,Groupama-FDJ,Switzerland,192,78,27,61,50,66,49,25,50,31,34,67
+Cyril Barthe,Groupama-FDJ,France,184,70,28,56,44,27,52,30,61,24,40,55
+Clément Russo,Groupama-FDJ,France,187,73,30,71,59,52,50,32,83,35,38,66
+Lars van den Berg,Groupama-FDJ,Netherlands,185,72,26,45,35,25,46,42,40,27,32,46
+Sven Erik Bystrøm,Groupama-FDJ,Norway,188,73,33,58,46,51,60,32,50,36,45,65
+Matthew Walls,Groupama-FDJ,Great Britain,177,72,26,47,38,28,36,22,55,20,27,40
+Paul Penhoët,Groupama-FDJ,France,173,64,23,80,71,51,66,31,89,20,48,84
+Olivier Le Gac,Groupama-FDJ,France,180,70,31,66,55,70,53,31,56,25,38,72
+Guillaume Martin,Groupama-FDJ,France,173,55,31,89,67,29,90,87,70,40,88,90
+Enzo Paleni,Groupama-FDJ,France,180,65,22,60,53,41,62,39,58,49,40,64
+Lorenzo Germani,Groupama-FDJ,Italy,180,66,22,55,39,20,61,42,38,32,40,60
+Tom Donnenwirth,Groupama-FDJ,France,178,63,27,47,35,20,47,35,38,24,44,37
+Romain Grégoire,Groupama-FDJ,France,176,64,22,87,69,26,92,63,61,71,70,91
+Eddy Le Huitouze,Groupama-FDJ,France,184,72,21,50,47,44,36,24,42,53,36,50
+Brieuc Rolland,Groupama-FDJ,France,179,59,21,50,37,20,54,45,37,27,38,54
+Stefan Küng,Groupama-FDJ,Switzerland,193,83,31,94,93,93,89,60,77,95,54,93
+Quentin Pacher,Groupama-FDJ,France,179,62,33,80,60,39,85,71,64,52,65,82
+Thibaud Gruel,Groupama-FDJ,France,180,70,20,63,52,32,67,28,53,37,34,75
+Remi Cavagna,Groupama-FDJ,France,186,78,29,73,69,52,58,32,43,83,49,65
+Rudy Molard,Groupama-FDJ,France,178,62,35,77,46,20,83,62,48,30,56,86
+Clément Braz Afonso,Groupama-FDJ,France,163,50,25,53,39,20,59,31,38,20,37,62
+Lewis Askey,Groupama-FDJ,Great Britain,187,75,23,81,73,84,65,29,77,27,36,86
+Filippo Ganna,INEOS Grenadiers,Italy,193,83,28,91,92,76,67,48,75,98,53,91
+Artem Shmidt,INEOS Grenadiers,United States,191,76,20,42,40,26,39,22,36,44,31,45
+Michael Leonard,INEOS Grenadiers,Canada,170,60,20,44,37,20,36,30,32,39,30,39
+AJ August,INEOS Grenadiers,United States,170,57,19,39,33,29,40,36,27,33,36,38
+Victor Langellotti,INEOS Grenadiers,Monaco,177,64,29,58,40,20,64,42,39,20,49,57
+Joshua Tarling,INEOS Grenadiers,Great Britain,194,78,20,86,89,79,51,39,45,95,40,89
+Magnus Sheffield,INEOS Grenadiers,United States,183,73,22,91,87,88,85,64,60,91,67,90
+Michal Kwiatkowski,INEOS Grenadiers,Poland,176,68,34,74,58,44,78,65,49,65,56,76
+Laurens De Plus,INEOS Grenadiers,Belgium,190,67,29,84,47,37,70,87,47,58,85,62
+Axel Laurance,INEOS Grenadiers,France,179,66,23,76,59,32,83,35,67,29,51,79
+Tobias Foss,INEOS Grenadiers,Norway,184,74,27,79,80,24,55,41,36,92,52,75
+Lucas Hamilton,INEOS Grenadiers,Australia,184,71,28,54,39,20,59,41,40,28,48,54
+Salvatore Puccio,INEOS Grenadiers,Italy,182,68,35,38,30,32,36,25,38,20,36,42
+Óscar Rodríguez,INEOS Grenadiers,Spain,179,63,29,66,35,20,60,68,34,33,60,45
+Connor Swift,INEOS Grenadiers,Great Britain,190,75,29,66,56,70,62,30,43,52,43,70
+Egan Bernal,INEOS Grenadiers,Colombia,175,60,28,86,43,26,74,89,53,39,85,46
+Brandon Rivera,INEOS Grenadiers,Colombia,170,60,28,62,43,27,60,59,47,41,61,46
+Bob Jungels,INEOS Grenadiers,Luxembourg,189,70,32,72,47,37,68,74,57,53,63,62
+Ben Turner,INEOS Grenadiers,Great Britain,194,74,25,78,65,82,68,34,58,49,50,82
+Geraint Thomas,INEOS Grenadiers,Great Britain,183,71,38,90,70,32,71,90,51,88,90,49
+Omar Fraile,INEOS Grenadiers,Spain,184,72,34,50,34,20,54,43,34,25,42,42
+Kim Heiduk,INEOS Grenadiers,Germany,184,70,24,54,46,40,49,30,56,35,38,52
+Thymen Arensman,INEOS Grenadiers,Netherlands,192,68,25,89,70,20,75,89,45,89,89,57
+Ben Swift,INEOS Grenadiers,Great Britain,179,69,37,60,51,53,54,46,62,20,40,62
+Carlos Rodriguez,INEOS Grenadiers,Spain,183,67,23,91,64,42,87,92,65,76,92,70
+Jonathan Castroviejo,INEOS Grenadiers,Spain,171,62,37,70,46,26,52,73,37,61,64,35
+Sam Watson,INEOS Grenadiers,Great Britain,186,68,23,69,65,62,61,30,60,56,46,71
+Alexander Kamp,Intermarché-Wanty,Denmark,186,74,31,61,43,23,67,26,44,29,41,75
+Gijs Van Hoecke,Intermarché-Wanty,Belgium,186,78,33,61,52,48,47,24,67,27,32,63
+Gerben Thijssen,Intermarché-Wanty,Belgium,174,74,26,81,86,44,58,24,93,20,29,91
+Roel van Sintmaartensdijk,Intermarché-Wanty,Netherlands,197,77,23,50,51,47,42,23,50,41,39,60
+Luca Van Boven,Intermarché-Wanty,Belgium,179,68,25,63,50,55,65,30,52,25,39,74
+Hugo Page,Intermarché-Wanty,France,185,71,23,78,68,73,71,29,79,34,41,86
+Biniam Girmay,Intermarché-Wanty,Eritrea,184,70,24,93,90,87,89,38,96,43,37,94
+Louis Meintjes,Intermarché-Wanty,South Africa,173,58,32,82,43,27,67,85,56,41,81,46
+Arne Marit,Intermarché-Wanty,Belgium,185,72,26,72,64,46,56,24,84,20,36,69
+Kevin Colleoni,Intermarché-Wanty,Italy,180,66,25,48,36,20,51,33,41,20,40,46
+Kamiel Bonneu,Intermarché-Wanty,Belgium,178,62,25,57,39,38,63,39,39,20,48,55
+Tom Paquot,Intermarché-Wanty,Belgium,184,70,25,43,37,31,42,27,45,23,31,49
+Laurenz Rex,Intermarché-Wanty,Belgium,193,82,25,85,76,89,69,27,81,29,38,90
+Gerben Kuypers,Intermarché-Wanty,Belgium,0,0,24,34,30,25,33,27,35,20,27,41
+Louis Barré,Intermarché-Wanty,France,184,68,24,67,47,20,75,30,45,20,48,74
+Georg Zimmermann,Intermarché-Wanty,Germany,181,70,27,82,67,56,90,55,66,32,52,90
+Kobe Goossens,Intermarché-Wanty,Belgium,178,64,28,64,44,27,70,45,48,34,46,73
+Jonas Rutsch,Intermarché-Wanty,Germany,197,82,27,68,56,70,63,29,57,32,42,77
+Taco van der Hoorn,Intermarché-Wanty,Netherlands,187,73,31,63,64,67,44,23,56,24,30,71
+Dion Smith,Intermarché-Wanty,New Zealand,179,67,31,60,50,46,63,30,57,23,39,66
+Dries De Pooter,Intermarché-Wanty,Belgium,182,61,22,61,52,63,51,31,59,20,31,65
+Huub Artz,Intermarché-Wanty,Netherlands,186,71,22,54,50,44,46,39,56,35,32,62
+Francesco Busatto,Intermarché-Wanty,Italy,172,62,22,73,52,30,83,35,54,20,36,86
+Alexy Faure-Prost,Intermarché-Wanty,France,185,67,20,42,29,22,38,43,29,24,38,41
+Simone Petilli,Intermarché-Wanty,Italy,178,65,31,55,35,20,61,42,34,20,40,59
+Lorenzo Rota,Intermarché-Wanty,Italy,173,62,29,81,66,48,90,43,65,26,51,90
+Adrien Petit,Intermarché-Wanty,France,188,80,34,59,49,62,39,25,58,20,33,65
+Vito Braet,Intermarché-Wanty,Belgium,184,68,24,73,61,59,74,25,72,30,34,86
+Nadav Raisberg,Israel-Premier Tech,Israel,178,67,23,49,44,44,46,28,49,30,32,54
+Riley Pickrell,Israel-Premier Tech,Canada,169,72,23,58,47,44,40,22,68,20,26,52
+Matthew Riccitello,Israel-Premier Tech,United States,172,55,22,78,31,20,56,86,29,37,68,44
+Michael Woods,Israel-Premier Tech,Canada,175,62,38,84,55,23,90,84,52,25,57,89
+George Bennett,Israel-Premier Tech,New Zealand,180,58,34,79,46,23,81,79,44,27,66,72
+Itamar Einhorn,Israel-Premier Tech,Israel,172,72,27,68,62,34,47,25,81,20,26,73
+Stephen Williams,Israel-Premier Tech,Great Britain,183,59,28,82,49,20,90,60,57,27,66,87
+Pier-André Côté,Israel-Premier Tech,Canada,181,0,27,65,56,43,63,32,55,63,40,75
+Derek Gee,Israel-Premier Tech,Canada,189,76,27,88,72,67,76,85,65,88,87,73
+Nick Schultz,Israel-Premier Tech,Australia,180,68,30,74,52,20,83,54,56,36,49,77
+Krists Neilands,Israel-Premier Tech,Latvia,189,69,30,76,62,78,77,51,59,37,49,82
+Jakob Fuglsang,Israel-Premier Tech,Denmark,181,65,39,72,53,62,76,67,44,50,53,72
+Simon Clarke,Israel-Premier Tech,Australia,175,63,38,75,61,68,78,30,60,20,41,83
+Joe Blackmore,Israel-Premier Tech,Great Britain,181,0,21,70,52,30,76,46,52,38,57,71
+Alexey Lutsenko,Israel-Premier Tech,Kazakhstan,174,74,32,81,67,56,85,74,56,68,61,85
+Hugo Houle,Israel-Premier Tech,Canada,183,72,34,66,52,52,69,59,59,42,55,65
+Jan Hirt,Israel-Premier Tech,Czech Republic,181,62,34,81,35,20,55,87,45,33,81,32
+Matis Louvel,Israel-Premier Tech,France,187,73,25,74,63,71,73,35,68,28,37,84
+Michael Schwarzmann,Israel-Premier Tech,Germany,174,69,34,51,42,34,39,23,58,20,34,51
+Jake Stewart,Israel-Premier Tech,Great Britain,179,66,25,71,56,41,64,31,80,28,40,69
+Chris Froome,Israel-Premier Tech,Great Britain,186,68,39,43,25,23,32,49,26,20,32,36
+Tom Van Asbroeck,Israel-Premier Tech,Belgium,182,72,34,84,82,86,70,25,86,20,34,90
+Ethan Vernon,Israel-Premier Tech,Great Britain,188,74,24,80,72,44,57,26,88,59,36,68
+Riley Sheehan,Israel-Premier Tech,United States,182,67,24,78,66,80,71,25,65,26,33,89
+Marco Frigo,Israel-Premier Tech,Italy,188,65,24,66,44,24,69,60,35,53,43,52
+Corbin Strong,Israel-Premier Tech,New Zealand,171,64,24,87,80,68,90,40,87,25,46,91
+Oded Kogut,Israel-Premier Tech,Israel,171,77,23,65,60,46,37,21,75,44,29,65
+Pascal Ackermann,Israel-Premier Tech,Germany,182,78,31,85,83,76,58,29,93,20,37,79
+Guillaume Boivin,Israel-Premier Tech,Canada,182,78,35,63,54,62,55,28,63,20,33,72
+Hugo Hofstetter,Israel-Premier Tech,France,170,65,30,84,78,73,67,26,90,24,35,88
+Toms Skujins,Lidl-Trek,Latvia,181,70,33,90,85,90,93,55,72,48,49,94
+Mathias Vacek,Lidl-Trek,Czech Republic,188,75,22,87,83,68,77,42,78,90,51,88
+Tim Torn Teutenberg,Lidl-Trek,Germany,183,0,22,69,62,46,47,21,80,28,33,72
+Thibau Nys,Lidl-Trek,Belgium,176,64,22,76,49,40,82,70,56,20,49,75
+Søren Kragh Andersen,Lidl-Trek,Denmark,178,73,30,84,80,86,76,36,78,56,48,90
+Tao Geoghegan Hart,Lidl-Trek,Great Britain,183,65,29,75,52,20,69,72,33,75,72,28
+Mads Pedersen,Lidl-Trek,Denmark,180,70,29,93,94,94,90,36,93,80,61,95
+Sam Oomen,Lidl-Trek,Netherlands,177,65,29,67,41,20,70,67,45,24,54,62
+Ryan Gibbons,Lidl-Trek,South Africa,182,70,30,71,59,49,52,32,83,47,39,59
+Julien Bernard,Lidl-Trek,France,176,60,32,72,47,32,77,63,49,36,60,70
+Tim Declercq,Lidl-Trek,Belgium,190,78,35,61,50,69,43,28,49,26,37,60
+Giulio Ciccone,Lidl-Trek,Italy,176,58,30,89,55,39,90,90,58,40,87,85
+Jacopo Mosca,Lidl-Trek,Italy,173,65,31,55,43,31,57,28,58,20,39,56
+Simone Consonni,Lidl-Trek,Italy,165,60,30,81,73,63,59,27,90,26,38,83
+Otto Vergaerde,Lidl-Trek,Belgium,181,74,30,52,44,53,42,25,51,20,38,57
+Albert Withen Philipsen,Lidl-Trek,Denmark,184,0,18,32,27,20,35,20,28,20,20,20
+Lennard Kämna,Lidl-Trek,Germany,181,65,28,80,55,23,76,77,55,73,75,53
+Amanuel Ghebreigzabhier,Lidl-Trek,Eritrea,187,68,30,59,41,20,67,42,33,34,46,57
+Edward Theuns,Lidl-Trek,Belgium,183,72,33,83,77,79,57,24,89,32,38,87
+Jasper Stuyven,Lidl-Trek,Belgium,187,78,32,91,90,92,86,43,88,57,57,92
+Juan Pedro Lopez,Lidl-Trek,Spain,170,60,27,73,40,20,68,73,39,33,72,49
+Bauke Mollema,Lidl-Trek,Netherlands,184,64,38,83,67,31,90,54,51,69,52,90
+Patrick Konrad,Lidl-Trek,Austria,181,64,33,75,53,34,82,60,59,36,60,78
+Daan Hoole,Lidl-Trek,Netherlands,198,814,25,77,71,61,46,23,51,89,35,73
+Quinn Simmons,Lidl-Trek,United States,185,72,23,75,53,20,83,44,47,46,47,79
+Alex Kirsch,Lidl-Trek,Luxembourg,194,78,32,83,74,87,57,27,76,58,47,83
+Jonathan Milan,Lidl-Trek,Italy,193,84,24,90,89,84,70,27,95,61,37,90
+Andrea Bagioli,Lidl-Trek,Italy,176,60,25,79,59,20,89,55,56,35,41,89
+Carlos Verona,Lidl-Trek,Spain,186,68,32,77,37,20,64,81,41,29,73,42
+Mattias Skjelmose,Lidl-Trek,Denmark,180,65,24,91,78,25,91,90,64,88,90,90
+Logan Currie,Lotto,New Zealand,168,0,23,55,47,25,52,33,40,51,42,53
+Reuben Thompson,Lotto,New Zealand,183,66,23,57,40,20,62,46,39,20,43,59
+Robin Orins,Lotto,Belgium,190,0,22,45,45,38,40,29,33,46,28,50
+Arnaud De Lie,Lotto,Belgium,182,78,22,93,90,91,90,36,93,20,51,96
+Baptiste Veistroffer,Lotto,France,182,73,24,37,35,35,37,24,33,28,31,42
+Steffen De Schuyteneer,Lotto,Belgium,182,73,19,51,51,46,41,25,55,25,36,51
+Arjen Livyns,Lotto,Belgium,170,58,30,62,52,52,62,34,62,20,37,69
+Jonas Gregaard,Lotto,Denmark,184,66,28,53,37,20,56,49,36,34,45,51
+Cédric Beullens,Lotto,Belgium,190,79,28,74,67,65,62,31,78,33,39,82
+Milan Menten,Lotto,Belgium,174,68,28,82,77,77,75,29,83,20,42,87
+Lionel Taminiaux,Lotto,Belgium,173,74,28,83,79,74,63,24,89,20,32,89
+Brent Van Moer,Lotto,Belgium,191,79,27,79,68,84,71,35,59,47,49,85
+Sébastien Grignard,Lotto,Belgium,179,68,25,54,45,54,51,28,50,29,36,63
+Jarrad Drizners,Lotto,Australia,186,70,25,43,39,20,36,24,46,31,38,43
+Jarne Van de Paar,Lotto,Belgium,187,79,24,67,61,31,35,22,82,20,34,72
+Liam Slock,Lotto,Belgium,188,78,24,67,54,68,66,30,53,20,38,77
+Henri Vandenabeele,Lotto,Belgium,181,0,24,35,27,20,35,30,32,20,32,32
+Jasper De Buyst,Lotto,Belgium,179,72,31,71,59,61,73,29,64,26,39,83
+Eduardo Sepulveda,Lotto,Argentina,173,59,33,62,39,20,64,57,35,25,57,60
+Jenno Berckmoes,Lotto,Belgium,177,61,23,80,69,75,85,42,62,37,53,86
+Lennert Van Eetvelt,Lotto,Belgium,176,63,23,88,59,20,91,81,55,35,83,89
+Lars Craps,Lotto,Belgium,185,67,23,55,46,59,53,33,40,28,38,57
+Lorenz Van de Wynkele,Lotto,Belgium,182,75,23,49,48,47,36,22,52,20,27,50
+Joshua Giddings,Lotto,Great Britain,195,0,21,45,44,40,32,21,48,36,26,46
+Alec Segaert,Lotto,Belgium,188,79,22,82,77,68,69,33,48,85,61,82
+Manlio Moro,Movistar Team,Italy,190,81,22,36,31,29,31,21,38,29,25,41
+Lorenzo Milesi,Movistar Team,Italy,180,70,22,70,61,44,54,35,55,73,35,67
+Nelson Oliveira,Movistar Team,Portugal,180,67,35,80,77,39,66,56,53,91,50,75
+Iván García Cortina,Movistar Team,Spain,183,77,29,85,75,86,75,32,84,20,37,89
+Carlos Canal,Movistar Team,Spain,179,70,23,73,59,50,77,42,71,36,46,79
+Ivan Romeo,Movistar Team,Spain,193,75,21,68,59,34,65,35,39,69,42,70
+Pablo Castrillo,Movistar Team,Spain,183,74,24,75,47,20,65,79,36,54,53,56
+Enric Mas,Movistar Team,Spain,177,61,30,92,59,29,91,93,54,58,91,88
+Javier Romo,Movistar Team,Spain,184,70,26,71,49,55,73,67,47,34,65,62
+Gregor Mühlberger,Movistar Team,Austria,180,64,30,68,46,20,74,65,43,32,48,70
+Ruben Guerreiro,Movistar Team,Portugal,178,65,30,71,43,29,76,62,49,25,58,71
+Diego Pescador,Movistar Team,Colombia,174,60,20,34,29,20,36,32,28,22,29,35
+Pelayo Sanchez,Movistar Team,Spain,177,62,24,70,46,21,74,70,47,32,53,66
+Fernando Gaviria,Movistar Team,Colombia,181,71,30,78,74,26,55,32,92,20,34,65
+Davide Formolo,Movistar Team,Italy,182,62,32,79,53,26,88,59,51,30,53,87
+Nairo Quintana,Movistar Team,Colombia,167,59,34,78,39,34,68,83,43,28,70,56
+Gonzalo Serrano,Movistar Team,Spain,177,65,30,71,53,42,78,37,61,35,41,81
+Jorge Arcas,Movistar Team,Spain,187,68,32,49,36,20,52,29,45,20,40,50
+Antonio Pedrero,Movistar Team,Spain,177,60,33,53,32,20,52,55,33,20,44,44
+Mathias Norsgaard,Movistar Team,Denmark,202,81,27,67,56,73,48,26,55,33,32,73
+Jon Barrenetxea,Movistar Team,Spain,188,74,24,65,43,20,72,35,58,20,41,70
+Orluis Aular,Movistar Team,Venezuela,176,65,28,74,60,20,79,36,74,41,49,79
+Davide Cimolai,Movistar Team,Italy,181,70,35,69,55,20,47,25,82,20,38,68
+Jefferson Cepeda,Movistar Team,Ecuador,170,61,28,68,49,20,72,54,43,41,58,69
+Albert Torres,Movistar Team,Spain,180,70,34,41,35,37,36,30,42,29,37,43
+Einer Rubio,Movistar Team,Colombia,164,56,26,88,44,20,77,91,50,34,87,62
+William Barta,Movistar Team,United States,180,61,29,66,50,21,59,52,40,65,60,49
+Natnael Tesfazion,Movistar Team,Eritrea,175,60,25,72,56,20,80,41,59,20,48,79
+Emils Liepins,Q36.5 Pro Cycling Team,Latvia,175,67,32,68,62,44,53,25,75,40,32,71
+Walter Calzoni,Q36.5 Pro Cycling Team,Italy,172,0,23,59,44,40,67,40,38,20,39,67
+Gianluca Brambilla,Q36.5 Pro Cycling Team,Italy,170,57,37,68,47,33,77,40,49,20,46,76
+Enekoitz Azparren,Q36.5 Pro Cycling Team,Spain,180,0,22,38,35,28,38,24,37,25,30,45
+Giacomo Nizzolo,Q36.5 Pro Cycling Team,Italy,184,72,35,73,65,48,59,25,81,20,30,78
+Frederik Frison,Q36.5 Pro Cycling Team,Belgium,193,84,32,67,63,74,48,24,53,33,33,74
+Fabio Christen,Q36.5 Pro Cycling Team,Switzerland,184,0,22,73,66,74,70,30,65,30,41,83
+Sjoerd Bax,Q36.5 Pro Cycling Team,Netherlands,185,78,29,66,58,66,64,26,44,54,39,75
+Matteo Badilatti,Q36.5 Pro Cycling Team,Switzerland,178,62,32,55,30,20,54,56,30,25,49,48
+Matteo Moschetti,Q36.5 Pro Cycling Team,Italy,180,73,28,75,68,32,46,26,90,20,30,87
+Kamil Malecki,Q36.5 Pro Cycling Team,Poland,174,69,29,68,56,80,46,23,45,30,31,68
+Harm Vanhoucke,Q36.5 Pro Cycling Team,Belgium,181,65,27,63,42,22,65,63,38,33,56,65
+Marcel Camprubí,Q36.5 Pro Cycling Team,Spain,178,69,23,53,42,37,58,29,39,20,32,63
+Rory Townsend,Q36.5 Pro Cycling Team,Ireland,184,73,29,70,62,45,53,21,79,20,33,78
+Joseph Pidcock,Q36.5 Pro Cycling Team,Great Britain,170,57,22,31,30,27,32,25,32,20,25,29
+Jannik Steimle,Q36.5 Pro Cycling Team,Germany,187,73,28,75,67,82,48,22,56,49,28,78
+David González,Q36.5 Pro Cycling Team,Spain,180,68,28,56,43,20,59,29,58,20,35,63
+Milan Vader,Q36.5 Pro Cycling Team,Netherlands,173,63,28,58,36,25,61,34,44,23,56,49
+Damien Howson,Q36.5 Pro Cycling Team,Australia,188,68,32,59,33,20,60,50,35,27,59,40
+Tom Pidcock,Q36.5 Pro Cycling Team,Great Britain,170,58,25,91,82,89,92,86,78,47,76,93
+Xabier Azparren,Q36.5 Pro Cycling Team,Spain,0,0,25,48,42,20,38,25,40,49,36,46
+Nickolas Zukowsky,Q36.5 Pro Cycling Team,Canada,188,0,26,49,50,46,45,26,48,39,33,61
+Mark Donovan,Q36.5 Pro Cycling Team,Great Britain,185,70,25,62,46,48,65,49,40,30,56,59
+David de la Cruz,Q36.5 Pro Cycling Team,Spain,182,66,35,69,49,20,62,68,40,65,61,59
+Nicolò Parisini,Q36.5 Pro Cycling Team,Italy,183,65,24,65,53,46,51,27,72,20,36,67
+Sam Welsford,Red Bull-BORA-hansgrohe,Australia,180,79,29,77,74,43,50,23,91,30,33,79
+Alexander Hajek,Red Bull-BORA-hansgrohe,Austria,176,55,21,59,41,20,66,41,41,20,46,62
+Florian Lipowitz,Red Bull-BORA-hansgrohe,Germany,181,68,24,87,48,20,80,88,43,59,88,63
+Giulio Pellizzari,Red Bull-BORA-hansgrohe,Italy,183,66,21,71,45,20,76,70,38,24,52,69
+Anton Palzer,Red Bull-BORA-hansgrohe,Germany,178,62,31,50,34,20,54,42,36,20,41,51
+Emil Herzog,Red Bull-BORA-hansgrohe,Germany,184,74,20,57,48,50,60,35,43,43,35,66
+Ryan Mullen,Red Bull-BORA-hansgrohe,Ireland,189,77,30,69,59,39,38,24,54,81,36,65
+Nico Denz,Red Bull-BORA-hansgrohe,Germany,183,71,30,63,53,48,64,37,57,47,42,50
+Primoz Roglic,Red Bull-BORA-hansgrohe,Slovenia,177,65,35,95,81,32,89,96,59,91,94,73
+Daniel Martinez,Red Bull-BORA-hansgrohe,Colombia,172,63,28,89,60,28,86,90,52,76,90,72
+Gianni Moscon,Red Bull-BORA-hansgrohe,Italy,180,71,30,49,42,45,44,31,50,31,39,51
+Jan Tratnik,Red Bull-BORA-hansgrohe,Slovenia,173,67,34,87,76,89,85,74,62,69,54,91
+Aleksandr Vlasov,Red Bull-BORA-hansgrohe,Russia,186,68,28,91,73,39,90,92,68,82,90,87
+Jai Hindley,Red Bull-BORA-hansgrohe,Australia,175,60,28,90,59,31,89,90,62,59,90,83
+Matteo Sobrero,Red Bull-BORA-hansgrohe,Italy,177,63,27,76,65,26,69,53,66,77,55,67
+Jordi Meeus,Red Bull-BORA-hansgrohe,Belgium,190,80,26,89,87,89,71,24,92,28,33,92
+Jonas Koch,Red Bull-BORA-hansgrohe,Germany,187,75,31,60,53,55,52,27,62,20,39,66
+Tim van Dijke,Red Bull-BORA-hansgrohe,Netherlands,189,74,24,80,72,83,63,36,76,56,35,76
+Mick van Dijke,Red Bull-BORA-hansgrohe,Netherlands,190,74,24,70,63,73,56,32,62,51,39,72
+Finn Fisher-Black,Red Bull-BORA-hansgrohe,New Zealand,189,69,23,76,59,22,78,52,48,71,58,68
+Frederik Wandahl,Red Bull-BORA-hansgrohe,Denmark,178,61,23,68,45,22,76,42,48,20,45,78
+Ben Zwiehoff,Red Bull-BORA-hansgrohe,Germany,182,61,30,64,42,20,66,54,45,31,61,56
+Danny van Poppel,Red Bull-BORA-hansgrohe,Netherlands,184,82,31,85,85,72,65,32,92,28,53,89
+Filip Maciejuk,Red Bull-BORA-hansgrohe,Poland,190,78,25,62,52,52,38,25,43,64,37,56
+Giovanni Aleotti,Red Bull-BORA-hansgrohe,Italy,180,67,25,74,46,25,75,71,48,27,69,68
+Oier Lazkano,Red Bull-BORA-hansgrohe,Spain,189,74,25,81,70,83,79,58,62,71,55,87
+Laurence Pithie,Red Bull-BORA-hansgrohe,New Zealand,185,74,22,88,84,88,78,25,90,49,36,90
+Maxim Van Gils,Red Bull-BORA-hansgrohe,Belgium,174,63,25,89,78,37,94,62,82,54,41,95
+Roger Adrià,Red Bull-BORA-hansgrohe,Spain,179,64,26,82,60,20,90,62,60,37,46,91
+James Knox,Soudal Quick-Step,Great Britain,173,58,29,53,33,20,56,44,31,25,50,45
+Pieter Serry,Soudal Quick-Step,Belgium,186,66,36,49,37,35,54,28,36,23,37,55
+Casper Pedersen,Soudal Quick-Step,Denmark,186,71,28,60,54,55,52,26,58,46,40,70
+Pascal Eenkhoorn,Soudal Quick-Step,Netherlands,185,72,27,70,54,61,75,35,51,25,37,79
+Jordi Warlop,Soudal Quick-Step,Belgium,182,71,28,52,42,38,43,23,57,20,27,58
+Ayco Bastiaens,Soudal Quick-Step,Belgium,191,76,28,39,33,30,28,22,43,20,29,42
+Ethan Hayter,Soudal Quick-Step,Great Britain,180,70,26,79,68,39,69,47,66,75,64,60
+Mattia Cattaneo,Soudal Quick-Step,Italy,184,67,34,79,71,23,57,60,45,90,60,63
+Mauri Vansevenant,Soudal Quick-Step,Belgium,175,60,25,82,57,20,89,71,57,32,61,88
+Valentin Paret-Peintre,Soudal Quick-Step,France,178,52,24,78,33,20,52,87,41,24,67,40
+Josef Cerný,Soudal Quick-Step,Czech Republic,188,75,31,64,57,31,32,26,41,68,37,42
+Yves Lampaert,Soudal Quick-Step,Belgium,180,75,33,86,85,85,65,34,78,83,51,86
+Pepijn Reinderink,Soudal Quick-Step,Netherlands,180,67,22,49,45,46,48,29,48,33,32,55
+Gianmarco Garofoli,Soudal Quick-Step,Italy,180,62,22,63,48,20,69,41,58,20,38,65
+William Junior Lecerf,Soudal Quick-Step,Belgium,169,54,22,62,45,20,61,62,47,40,53,52
+Gil Gelders,Soudal Quick-Step,Belgium,179,66,22,51,42,38,53,35,46,20,40,56
+Martin Svrcek,Soudal Quick-Step,Slovakia,175,66,21,52,43,33,57,26,43,24,34,58
+Andrea Raccagni Noviero,Soudal Quick-Step,Italy,185,75,21,48,45,32,35,20,39,43,25,45
+Paul Magnier,Soudal Quick-Step,France,187,70,20,75,61,33,71,30,82,31,32,84
+Max Schachmann,Soudal Quick-Step,Germany,183,71,31,81,71,42,73,62,52,90,58,74
+Dries van Gestel,Soudal Quick-Step,Belgium,188,74,30,85,79,89,66,26,80,20,32,90
+Mikel Landa,Soudal Quick-Step,Spain,172,61,35,93,54,26,89,94,58,66,92,71
+Bert Van Lerberghe,Soudal Quick-Step,Belgium,190,83,32,66,58,63,41,24,72,20,35,69
+Louis Vervaeke,Soudal Quick-Step,Belgium,181,68,31,58,41,35,59,59,46,29,50,52
+Tim Merlier,Soudal Quick-Step,Belgium,188,76,32,91,91,89,68,24,97,20,35,92
+Remco Evenepoel,Soudal Quick-Step,Belgium,171,61,25,97,94,28,94,94,79,99,93,96
+Luke Lamperti,Soudal Quick-Step,United States,180,74,22,81,68,59,66,29,89,20,41,86
+Warre Vangheluwe,Soudal Quick-Step,Belgium,189,79,23,52,46,35,40,22,60,25,30,52
+Antoine Huby,Soudal Quick-Step,France,174,56,24,49,37,29,54,31,43,20,34,52
+Ilan Van Wilder,Soudal Quick-Step,Belgium,171,64,24,88,69,41,89,83,60,79,84,86
+Milan Lanhove,Team Flanders-Baloise,Belgium,181,68,21,37,38,37,31,20,37,20,25,42
+Dylan Vandenstorme,Team Flanders-Baloise,Belgium,172,62,22,54,47,54,48,25,52,20,30,62
+Noah Vandenbranden,Team Flanders-Baloise,Belgium,181,74,22,39,36,25,26,21,40,36,23,42
+Victor Vercouillie,Team Flanders-Baloise,Belgium,182,66,22,41,39,39,32,21,38,41,28,45
+Brem Deman,Team Flanders-Baloise,Belgium,186,0,22,30,32,28,25,20,30,20,23,35
+Siebe Deweirdt,Team Flanders-Baloise,Belgium,184,69,22,41,35,31,32,21,44,25,23,46
+Toon Clynhens,Team Flanders-Baloise,Belgium,186,61,23,36,29,20,36,26,37,20,26,40
+Jonas Geens,Team Flanders-Baloise,Belgium,183,77,26,30,28,29,30,20,27,20,26,32
+Elias Maris,Team Flanders-Baloise,Belgium,178,65,25,52,44,53,51,27,45,20,36,58
+Tom Crabbe,Team Flanders-Baloise,Belgium,0,0,19,22,21,20,22,20,22,20,22,20
+Vincent Van Hemelen,Team Flanders-Baloise,Belgium,191,72,24,48,39,25,41,23,39,40,30,49
+Aaron Van Poucke,Team Flanders-Baloise,Belgium,177,68,26,46,40,30,38,22,52,20,32,47
+Jules Hesters,Team Flanders-Baloise,Belgium,180,72,26,59,49,48,34,21,68,20,26,61
+Alex Colman,Team Flanders-Baloise,Belgium,185,73,26,48,42,46,40,23,48,20,32,55
+Jasper Dejaegher,Team Flanders-Baloise,Belgium,182,72,24,33,33,30,30,20,34,20,23,35
+Tuur Dens,Team Flanders-Baloise,Belgium,184,81,24,34,30,29,26,20,36,20,23,36
+Ward Vanhoof,Team Flanders-Baloise,Belgium,186,75,25,62,53,65,49,24,55,31,30,68
+Vince Gerits,Team Flanders-Baloise,Belgium,171,67,27,34,29,20,27,20,38,20,20,37
+Yentl Vandevelde,Team Flanders-Baloise,Belgium,179,69,24,51,45,45,37,21,54,20,24,56
+Lindsay De Vylder,Team Flanders-Baloise,Belgium,184,70,29,53,45,37,39,22,58,20,25,60
+Patrick Gamper,Team Jayco-AlUla,Austria,194,80,27,50,45,36,48,28,50,46,37,54
+Chris Harper,Team Jayco-AlUla,Australia,185,67,30,76,44,20,72,78,45,40,72,59
+Ben O'Connor,Team Jayco-AlUla,Australia,188,67,29,92,74,23,92,91,61,77,92,90
+Kelland O'Brien,Team Jayco-AlUla,Australia,195,79,26,62,56,62,53,25,56,44,37,67
+Campbell Stewart,Team Jayco-AlUla,New Zealand,180,76,26,49,41,32,37,23,57,20,30,47
+Jasha Sütterlin,Team Jayco-AlUla,Germany,184,78,32,51,44,40,46,37,45,54,42,37
+Filippo Zana,Team Jayco-AlUla,Italy,185,65,25,85,56,20,88,84,51,49,76,83
+Mauro Schmid,Team Jayco-AlUla,Switzerland,187,70,25,81,63,27,81,69,51,76,61,72
+Asbjørn Hellemose,Team Jayco-AlUla,Denmark,192,65,26,42,30,20,45,33,33,20,36,44
+Max Walscheid,Team Jayco-AlUla,Germany,199,90,31,85,81,82,52,23,89,62,34,88
+Robert Donaldson,Team Jayco-AlUla,Great Britain,189,0,22,47,43,37,41,27,50,26,34,40
+Welay Berhe,Team Jayco-AlUla,Ethiopia,170,58,23,51,31,20,52,43,32,20,51,40
+Davide De Pretto,Team Jayco-AlUla,Italy,172,58,22,71,55,20,81,29,57,20,35,80
+Alan Hatherly,Team Jayco-AlUla,South Africa,178,62,28,23,22,20,20,20,20,20,20,20
+Caleb Ewan,Team Jayco-AlUla,Australia,167,69,30,77,73,43,57,26,90,20,32,80
+Christopher Juul-Jensen,Team Jayco-AlUla,Denmark,183,73,35,43,32,33,43,37,31,31,43,46
+Koen Bouwman,Team Jayco-AlUla,Netherlands,178,60,31,62,41,20,64,59,44,41,52,45
+Michael Matthews,Team Jayco-AlUla,Australia,178,72,34,89,83,81,90,42,87,60,39,93
+Luke Durbridge,Team Jayco-AlUla,Australia,187,78,33,53,48,54,39,30,43,52,38,55
+Edward Dunbar,Team Jayco-AlUla,Ireland,170,57,28,83,49,20,76,84,46,50,82,50
+Michael Hepburn,Team Jayco-AlUla,Australia,186,77,33,58,48,20,29,32,43,66,36,35
+Alessandro De Marchi,Team Jayco-AlUla,Italy,181,65,38,53,41,21,57,43,39,44,40,52
+Lucas Plapp,Team Jayco-AlUla,Australia,181,72,24,74,58,20,69,68,45,76,69,55
+Dylan Groenewegen,Team Jayco-AlUla,Netherlands,177,70,31,85,89,63,63,28,94,20,38,90
+Felix Engelhardt,Team Jayco-AlUla,Germany,180,68,24,61,46,27,65,46,50,23,47,67
+Elmar Reinders,Team Jayco-AlUla,Netherlands,190,781,32,61,55,49,40,23,69,28,34,63
+Luka Mezgec,Team Jayco-AlUla,Slovenia,183,72,36,73,65,62,61,27,79,20,39,72
+Jelte Krijnsen,Team Jayco-AlUla,Netherlands,184,73,23,60,61,40,58,26,61,20,48,67
+Anders Foldager,Team Jayco-AlUla,Denmark,181,69,23,67,48,20,74,37,51,20,48,75
+Paul Double,Team Jayco-AlUla,Great Britain,171,56,28,58,38,20,56,56,39,20,55,48
+Alessandro Perracchione,Team Novo Nordisk,Italy,0,0,19,30,25,20,30,22,29,20,28,35
+Célestin Wattelle,Team Novo Nordisk,France,0,0,21,27,26,20,26,22,27,20,23,30
+Doriand Percrule,Team Novo Nordisk,France,0,0,25,25,24,20,25,20,25,20,23,27
+Bailey McDonald,Team Novo Nordisk,Australia,0,0,21,22,21,20,22,20,21,20,20,23
+Jacopo Colladon,Team Novo Nordisk,Italy,0,0,21,24,24,20,25,20,24,20,20,27
+Matyas Kopecky,Team Novo Nordisk,Czech Republic,0,0,22,67,57,47,55,22,74,25,34,70
+Quinten De Graeve,Team Novo Nordisk,Belgium,0,0,24,31,27,20,28,20,32,20,26,33
+Declan Irvine,Team Novo Nordisk,Australia,178,75,25,35,31,25,27,20,40,20,26,34
+Sam Brand,Team Novo Nordisk,Great Britain,186,76,33,34,29,20,34,24,34,20,28,38
+Filippo Ridolfo,Team Novo Nordisk,Italy,187,0,23,34,30,20,32,21,35,20,27,38
+Hamish Beadle,Team Novo Nordisk,New Zealand,167,64,26,35,35,20,31,20,38,20,26,31
+Anton Muller,Team Novo Nordisk,France,0,0,26,25,23,20,25,20,24,20,25,26
+David Lozano,Team Novo Nordisk,Spain,178,63,36,36,32,20,37,28,31,20,33,39
+Umberto Poli,Team Novo Nordisk,Italy,167,0,28,31,27,20,25,21,34,20,26,28
+Andrea Peron,Team Novo Nordisk,Italy,178,70,36,44,39,28,37,21,50,20,28,44
+Hamish Armitt,Team Novo Nordisk,Great Britain,0,0,22,25,24,20,25,20,23,25,22,27
+Logan Phippen,Team Novo Nordisk,United States,180,0,32,22,21,20,20,20,22,20,22,22
+Lucas Daugé,Team Novo Nordisk,France,167,0,28,24,24,20,22,20,25,20,24,25
+Nathan Smith,Team Novo Nordisk,Great Britain,0,0,24,26,24,20,24,20,25,20,26,25
+Antonio Polga,Team Novo Nordisk,Italy,0,0,25,30,27,20,29,20,31,20,26,34
+Romain Bardet,Team Picnic PostNL,France,185,65,34,90,64,28,91,90,64,53,84,91
+Bram Welten,Team Picnic PostNL,Netherlands,188,81,27,66,55,45,41,23,78,20,32,65
+Fabio Jakobsen,Team Picnic PostNL,Netherlands,181,78,28,82,83,79,54,22,90,20,30,82
+Julius van den Berg,Team Picnic PostNL,Netherlands,190,78,28,49,41,42,39,24,54,26,36,49
+Sean Flynn,Team Picnic PostNL,Great Britain,177,67,24,56,49,41,55,30,58,23,45,58
+Frank van den Broek,Team Picnic PostNL,Netherlands,178,70,24,65,47,37,67,55,55,41,53,57
+Patrick Eddy,Team Picnic PostNL,Australia,185,79,22,46,44,37,35,24,48,38,30,49
+Tobias Lund Andresen,Team Picnic PostNL,Denmark,181,69,22,76,66,26,52,39,90,20,42,69
+Pavel Bittner,Team Picnic PostNL,Czech Republic,184,73,22,79,71,72,65,26,85,32,34,78
+Oscar Onley,Team Picnic PostNL,Great Britain,173,62,22,83,50,20,83,77,47,55,81,64
+Max Poole,Team Picnic PostNL,Great Britain,185,0,21,79,49,20,71,80,44,57,73,23
+Romain Combaud,Team Picnic PostNL,France,175,63,33,44,32,20,46,28,38,20,38,49
+Bjoern Koerdt,Team Picnic PostNL,Great Britain,0,0,20,32,28,23,33,29,29,20,28,29
+Robbe Dhondt,Team Picnic PostNL,Belgium,176,0,20,31,28,23,31,26,30,20,27,30
+Alex Edmondson,Team Picnic PostNL,Australia,183,75,31,52,44,40,34,23,42,43,34,43
+Juan Guillermo Martinez,Team Picnic PostNL,Colombia,0,0,20,34,28,20,35,35,27,20,27,37
+Timo Roosen,Team Picnic PostNL,Netherlands,193,78,32,47,42,41,35,23,50,20,31,50
+Warren Barguil,Team Picnic PostNL,France,183,61,33,81,55,29,87,71,50,34,64,85
+Tim Naberman,Team Picnic PostNL,Netherlands,187,70,25,42,36,36,30,23,44,20,34,45
+Niklas Märkl,Team Picnic PostNL,Germany,185,70,25,59,48,45,47,27,65,20,36,59
+Gijs Leemreize,Team Picnic PostNL,Netherlands,190,66,25,63,38,20,67,63,36,29,47,44
+John Degenkolb,Team Picnic PostNL,Germany,180,82,36,84,75,89,64,27,83,27,40,85
+Kevin Vermaerke,Team Picnic PostNL,United States,181,67,24,83,59,34,90,67,64,28,61,90
+Matthew Dinham,Team Picnic PostNL,Australia,175,63,24,59,42,20,66,39,44,28,38,67
+Casper van Uden,Team Picnic PostNL,Netherlands,181,0,23,77,71,44,53,27,90,26,39,79
+Enzo Leijnse,Team Picnic PostNL,Netherlands,194,0,23,43,34,20,46,27,29,37,34,45
+Chris Hamilton,Team Picnic PostNL,Australia,178,70,29,66,42,20,73,58,39,28,48,63
+Nils Eekhoff,Team Picnic PostNL,Netherlands,192,75,27,71,64,66,55,28,76,27,33,75
+Gabriele Raccagni,Team Polti VisitMalta,Italy,183,63,21,26,25,20,24,20,24,26,23,27
+Francisco Muñoz,Team Polti VisitMalta,Spain,181,71,23,41,32,22,38,24,44,20,32,42
+Davide Piganzoli,Team Polti VisitMalta,Italy,174,61,22,75,44,20,79,64,45,41,71,71
+Davide De Cassan,Team Polti VisitMalta,Italy,170,61,23,48,37,20,53,33,37,23,34,51
+Aidan Buttigieg,Team Polti VisitMalta,Malta,172,68,27,31,26,20,22,23,23,34,22,27
+Pablo Garcia,Team Polti VisitMalta,Spain,182,0,24,26,22,20,27,25,21,20,22,26
+Ludovico Crescioli,Team Polti VisitMalta,Italy,0,0,21,43,34,20,45,39,31,20,35,46
+Germán Dario Gómez,Team Polti VisitMalta,Colombia,0,0,23,41,32,20,42,36,32,28,36,39
+Fernando Tercero,Team Polti VisitMalta,Spain,182,65,23,42,31,20,42,37,33,20,40,41
+Giovanni Lonardi,Team Polti VisitMalta,Italy,180,70,28,73,62,20,45,27,89,20,35,45
+Mattia Bais,Team Polti VisitMalta,Italy,175,66,28,55,41,20,61,40,40,28,40,60
+Andrea Pietrobon,Team Polti VisitMalta,Italy,190,72,25,49,39,20,43,26,56,27,34,44
+Diego Sevilla,Team Polti VisitMalta,Spain,171,64,28,50,36,20,55,31,41,20,34,57
+Mirco Maestri,Team Polti VisitMalta,Italy,185,73,33,60,52,20,60,28,63,47,46,59
+Alessandro Tonelli,Team Polti VisitMalta,Italy,176,64,32,59,43,28,64,41,44,30,49,57
+Manuel Peñalver,Team Polti VisitMalta,Spain,177,67,26,59,52,20,37,20,73,20,29,43
+Davide Bais,Team Polti VisitMalta,Italy,183,66,26,46,34,20,48,43,39,20,38,49
+Javier Serrano,Team Polti VisitMalta,Spain,172,60,23,50,39,23,47,26,55,20,28,54
+Samuele Zoccarato,Team Polti VisitMalta,Italy,183,74,27,47,37,22,50,36,39,29,36,53
+Alex Martin,Team Polti VisitMalta,Spain,174,60,25,47,33,20,52,34,32,20,36,51
+Valentin Retailleau,Team TotalEnergies,France,181,64,24,52,46,35,47,29,56,20,29,57
+Baptiste Vadic,Team TotalEnergies,France,0,0,22,41,35,20,33,22,44,20,25,42
+Nicola Marcerou,Team TotalEnergies,France,175,0,22,29,27,20,25,20,32,20,22,31
+Pierre Latour,Team TotalEnergies,France,181,66,31,69,55,20,63,55,37,69,50,60
+Anthony Turgis,Team TotalEnergies,France,178,70,30,84,81,88,68,31,86,25,40,85
+Rayan Boulahoite,Team TotalEnergies,France,183,75,20,33,29,24,35,25,29,20,26,28
+Alexys Brunel,Team TotalEnergies,France,191,70,26,31,29,27,27,23,24,30,22,29
+Mathieu Burgaudeau,Team TotalEnergies,France,168,61,26,77,60,39,85,59,55,47,57,82
+Emilien Jeannière,Team TotalEnergies,France,176,0,26,83,73,65,74,28,88,34,45,89
+Jason Tesson,Team TotalEnergies,France,166,59,27,75,69,29,49,23,90,20,32,86
+Lorrenzo Manzin,Team TotalEnergies,France,175,69,30,57,47,30,41,24,67,20,32,59
+Jordan Jegat,Team TotalEnergies,France,176,59,25,76,52,20,84,59,53,35,59,79
+Alan Jousseaume,Team TotalEnergies,France,177,0,26,50,35,20,57,33,33,20,34,56
+Thomas Bonnet,Team TotalEnergies,France,175,0,26,46,43,47,42,30,43,20,33,52
+Thomas Gachignard,Team TotalEnergies,France,0,0,24,70,61,73,59,31,63,49,45,78
+Joris Delbove,Team TotalEnergies,France,0,0,24,54,49,33,55,31,51,20,42,66
+Lucas Boniface,Team TotalEnergies,France,189,0,24,40,35,30,27,20,46,20,26,41
+Florian Dauphin,Team TotalEnergies,France,180,70,25,48,44,37,42,22,51,20,34,56
+Mattéo Vercher,Team TotalEnergies,France,171,0,24,60,44,26,70,32,44,33,35,63
+Samuel Leroux,Team TotalEnergies,France,189,79,30,50,44,32,47,26,52,40,39,55
+Fabien Grellier,Team TotalEnergies,France,180,65,30,51,37,22,54,36,42,28,38,59
+Geoffrey Soupe,Team TotalEnergies,France,177,70,36,56,47,40,45,27,63,25,38,54
+Steff Cras,Team TotalEnergies,Belgium,183,65,28,77,46,26,72,74,51,40,79,58
+Fabien Doubey,Team TotalEnergies,France,174,62,31,53,40,30,57,39,43,36,43,55
+Sandy Dujardin,Team TotalEnergies,France,178,0,27,77,68,72,76,33,75,20,37,88
+Alexandre Delettre,Team TotalEnergies,France,170,62,27,69,59,48,73,31,61,20,50,81
+Niklas Behrens,Team Visma | Lease a Bike,Germany,195,80,21,54,52,36,55,20,45,43,24,64
+Matthew Brennan,Team Visma | Lease a Bike,Great Britain,0,0,19,54,45,28,43,31,60,27,28,57
+Per Strand Hagenes,Team Visma | Lease a Bike,Norway,186,0,21,70,62,67,69,35,64,46,58,83
+Wout van Aert,Team Visma | Lease a Bike,Belgium,190,78,30,94,96,95,90,78,93,93,51,95
+Loe van Belle,Team Visma | Lease a Bike,Netherlands,184,0,23,48,45,41,42,26,49,34,29,52
+Menno Huising,Team Visma | Lease a Bike,Netherlands,185,0,20,46,40,29,50,35,32,30,34,52
+Tijmen Graat,Team Visma | Lease a Bike,Netherlands,176,0,22,47,34,20,50,42,32,22,40,44
+Daniel McLay,Team Visma | Lease a Bike,Great Britain,187,72,33,72,63,64,43,23,81,28,35,71
+Christophe Laporte,Team Visma | Lease a Bike,France,191,76,32,92,91,92,90,38,90,53,56,94
+Jørgen Nordhagen,Team Visma | Lease a Bike,Norway,177,59,20,46,40,20,48,40,33,37,39,47
+Cian Uijtdebroeks,Team Visma | Lease a Bike,Belgium,185,68,21,83,42,20,65,88,40,49,80,43
+Tosh Van der Sande,Team Visma | Lease a Bike,Belgium,178,67,34,50,45,43,42,24,53,20,34,55
+Tiesj Benoot,Team Visma | Lease a Bike,Belgium,190,72,30,89,86,91,91,64,74,28,51,94
+Thomas Gloag,Team Visma | Lease a Bike,Great Britain,181,60,23,50,30,20,46,51,30,23,45,37
+Wilco Kelderman,Team Visma | Lease a Bike,Netherlands,185,65,33,89,56,26,88,90,52,65,86,75
+Julien Vermote,Team Visma | Lease a Bike,Belgium,179,74,35,48,40,43,40,23,49,20,33,54
+Edoardo Affini,Team Visma | Lease a Bike,Italy,190,80,28,81,83,50,38,29,62,93,38,78
+Matteo Jorgenson,Team Visma | Lease a Bike,United States,190,69,25,92,89,92,90,91,73,86,91,92
+Simon Yates,Team Visma | Lease a Bike,Great Britain,172,58,32,90,65,20,89,90,54,76,89,83
+Dylan van Baarle,Team Visma | Lease a Bike,Netherlands,189,78,32,80,73,86,72,49,53,47,40,88
+Steven Kruijswijk,Team Visma | Lease a Bike,Netherlands,178,63,37,62,33,23,53,64,33,26,60,35
+Axel Zingle,Team Visma | Lease a Bike,France,173,67,26,86,79,64,89,38,90,34,58,91
+Sepp Kuss,Team Visma | Lease a Bike,United States,182,61,30,89,44,23,77,92,50,52,90,50
+Jonas Vingegaard,Team Visma | Lease a Bike,Denmark,175,58,28,96,81,36,88,97,68,91,97,46
+Olav Kooij,Team Visma | Lease a Bike,Netherlands,184,72,23,90,90,77,75,25,96,25,42,93
+Bart Lemmen,Team Visma | Lease a Bike,Netherlands,180,0,29,71,47,29,77,53,48,41,61,65
+Victor Campenaerts,Team Visma | Lease a Bike,Belgium,173,68,33,85,79,78,75,41,60,90,42,82
+Ben Tulett,Team Visma | Lease a Bike,Great Britain,169,56,23,65,45,20,60,51,35,54,49,51
+Attila Valter,Team Visma | Lease a Bike,Hungary,185,65,26,86,59,20,90,80,49,60,73,90
+Djordje Djuric,Toscana Factory Team Vini Fantini,Serbia,193,78,24,35,36,20,35,25,34,32,28,34
+Kyrylo Tsarenko,Toscana Factory Team Vini Fantini,Ukraine,0,0,24,46,38,20,49,34,37,20,32,53
+Kristian Sbaragli,Toscana Factory Team Vini Fantini,Italy,175,74,34,65,47,23,72,32,52,20,40,73
+Andrea Piras,Toscana Factory Team Vini Fantini,Italy,0,0,22,29,27,20,30,20,27,20,22,32
+Yukiya Arashiro,Toscana Factory Team Vini Fantini,Japan,170,64,40,44,42,32,45,22,39,38,27,54
+Luca Verrando,Toscana Factory Team Vini Fantini,Italy,0,0,20,22,22,20,23,20,21,20,20,23
+Arnaud Tissières,Toscana Factory Team Vini Fantini,Switzerland,0,0,28,28,25,20,28,20,28,20,24,30
+Valerio Conti,Toscana Factory Team Vini Fantini,Italy,172,61,31,54,40,20,56,44,41,23,48,52
+Mark Stewart,Toscana Factory Team Vini Fantini,Great Britain,180,70,29,47,39,27,50,35,38,28,37,54
+Roberto Gonzalez,Toscana Factory Team Vini Fantini,Panama,0,0,30,38,30,20,39,34,31,20,31,42
+Dusan Rajovic,Toscana Factory Team Vini Fantini,Serbia,183,74,27,56,49,44,39,22,64,40,31,50
+Felix Meo,Toscana Factory Team Vini Fantini,New Zealand,0,0,27,28,26,20,26,20,29,20,25,31
+Carlos Samudio,Toscana Factory Team Vini Fantini,Panama,0,0,27,32,29,20,33,21,28,20,27,35
+Alessandro Iacchi,Toscana Factory Team Vini Fantini,Italy,170,59,25,32,28,20,31,23,33,20,30,33
+Davide Baldaccini,Toscana Factory Team Vini Fantini,Italy,176,0,26,41,35,20,39,40,36,20,40,40
+Filippo Fortin,Toscana Factory Team Vini Fantini,Italy,183,78,35,45,41,20,32,21,50,20,31,35
+Lorenzo Quartucci,Toscana Factory Team Vini Fantini,Italy,170,64,25,48,40,25,50,37,44,20,41,48
+Alexandre Balmer,Toscana Factory Team Vini Fantini,Switzerland,191,70,24,50,40,32,56,31,36,23,35,58
+Tommaso Nencini,Toscana Factory Team Vini Fantini,Italy,0,0,24,25,26,20,24,20,26,20,22,28
+Julian Alaphilippe,Tudor Pro Cycling Team,France,173,62,32,85,79,55,91,58,73,40,60,91
+Lucas Eriksson,Tudor Pro Cycling Team,Sweden,180,64,28,55,41,20,62,31,40,20,36,63
+Aivaras Mikutis,Tudor Pro Cycling Team,Lithuania,184,0,22,44,44,32,36,23,30,48,30,45
+Arvid de Kleijn,Tudor Pro Cycling Team,Netherlands,171,68,30,76,77,20,52,26,92,20,29,85
+Roland Thalmann,Tudor Pro Cycling Team,Switzerland,178,61,31,45,34,20,47,40,34,29,37,47
+Mathys Rondel,Tudor Pro Cycling Team,France,180,0,21,43,27,20,35,45,27,22,39,30
+Lawrence Warbasse,Tudor Pro Cycling Team,United States,183,67,34,57,43,20,61,47,49,44,47,60
+Matteo Trentin,Tudor Pro Cycling Team,Italy,179,74,35,89,87,90,84,32,90,50,58,91
+Fabian Lienhard,Tudor Pro Cycling Team,Switzerland,183,73,31,66,55,69,49,26,68,20,37,69
+Petr Kelemen,Tudor Pro Cycling Team,Czech Republic,192,70,24,45,38,30,37,25,48,33,32,51
+Marc Hirschi,Tudor Pro Cycling Team,Switzerland,174,61,26,91,89,50,97,58,80,55,62,99
+Marco Brenner,Tudor Pro Cycling Team,Germany,181,59,22,64,47,20,69,51,45,44,52,59
+Michael Storer,Tudor Pro Cycling Team,Australia,174,63,27,83,46,20,78,84,41,40,80,68
+Florian Stork,Tudor Pro Cycling Team,Germany,185,651,27,52,38,23,55,33,42,29,44,56
+Fabian Weiss,Tudor Pro Cycling Team,Switzerland,181,0,22,46,41,22,34,32,33,45,29,45
+Robin Froidevaux,Tudor Pro Cycling Team,Switzerland,183,71,26,56,44,27,40,25,67,23,34,51
+Alexander Krieger,Tudor Pro Cycling Team,Germany,184,71,33,50,41,41,36,23,56,24,30,47
+Mika Heming,Tudor Pro Cycling Team,Germany,184,68,24,45,38,20,33,25,50,25,34,46
+Hannes Wilksch,Tudor Pro Cycling Team,Germany,181,62,23,43,31,20,48,29,30,26,33,47
+Joel Suter,Tudor Pro Cycling Team,Switzerland,190,75,26,51,40,22,38,26,32,47,30,41
+Yannis Voisard,Tudor Pro Cycling Team,Switzerland,0,56,26,66,43,20,64,58,35,50,65,51
+Rick Pluimers,Tudor Pro Cycling Team,Netherlands,180,67,24,68,56,61,69,33,62,20,44,75
+Marco Haller,Tudor Pro Cycling Team,Austria,178,72,33,76,66,66,76,39,75,25,42,87
+Maikel Zijlaard,Tudor Pro Cycling Team,Netherlands,189,73,25,68,66,55,44,24,72,37,30,65
+Jacob Eriksson,Tudor Pro Cycling Team,Sweden,182,0,25,46,40,37,47,23,44,20,29,55
+Sebastian Kolze Changizi,Tudor Pro Cycling Team,Denmark,181,0,24,43,39,43,34,22,44,20,30,46
+Luc Wirtgen,Tudor Pro Cycling Team,Luxembourg,180,63,26,49,37,23,54,33,36,20,38,53
+Alberto Dainese,Tudor Pro Cycling Team,Italy,174,70,26,77,68,47,54,26,90,25,41,61
+Arthur Kluckers,Tudor Pro Cycling Team,Luxembourg,192,71,24,55,49,31,41,24,38,60,38,53
+Marius Mayrhofer,Tudor Pro Cycling Team,Germany,182,70,24,72,59,60,70,25,73,28,33,82
+Rafal Majka,UAE Team Emirates XRG,Poland,173,62,35,86,47,20,81,89,42,37,79,68
+Vegard Stake Laengen,UAE Team Emirates XRG,Norway,195,79,35,49,40,48,49,40,41,27,38,59
+Jhonatan Narvaez,UAE Team Emirates XRG,Ecuador,174,65,27,87,77,87,89,68,79,20,62,87
+Alessandro Covi,UAE Team Emirates XRG,Italy,180,66,26,66,50,32,74,43,51,20,35,74
+Tadej Pogacar,UAE Team Emirates XRG,Slovenia,176,66,26,99,93,90,99,99,90,93,97,99
+Brandon McNulty,UAE Team Emirates XRG,United States,183,69,26,93,89,23,90,84,64,93,86,90
+Joao Almeida,UAE Team Emirates XRG,Portugal,178,63,26,94,73,30,80,95,55,90,92,58
+Julius Johansen,UAE Team Emirates XRG,Denmark,188,77,25,56,48,36,43,25,43,48,35,47
+Rune Herregodts,UAE Team Emirates XRG,Belgium,181,70,26,68,59,26,60,27,46,68,46,64
+Tim Wellens,UAE Team Emirates XRG,Belgium,182,71,33,92,89,93,90,56,68,81,78,92
+Mikkel Bjerg,UAE Team Emirates XRG,Denmark,191,78,26,88,90,91,67,51,63,92,54,90
+Florian Vermeersch,UAE Team Emirates XRG,Belgium,193,85,25,82,78,87,74,30,60,51,52,87
+Filippo Baroncini,UAE Team Emirates XRG,Italy,188,74,24,80,67,52,86,43,60,69,43,87
+Juan Ayuso,UAE Team Emirates XRG,Spain,183,65,22,92,83,30,90,90,60,90,90,89
+Igor Arrieta,UAE Team Emirates XRG,Spain,182,64,22,65,46,20,74,40,39,25,47,69
+Rui Oliveira,UAE Team Emirates XRG,Portugal,183,66,28,77,65,70,68,27,81,20,37,80
+Isaac del Toro,UAE Team Emirates XRG,Mexico,180,64,21,81,51,20,76,82,43,61,79,62
+António Morgado,UAE Team Emirates XRG,Portugal,180,71,21,81,73,89,70,31,56,46,39,87
+Jan Christen,UAE Team Emirates XRG,Switzerland,183,60,20,83,66,24,89,56,54,66,47,90
+Nils Politt,UAE Team Emirates XRG,Germany,192,80,30,90,90,95,79,48,80,67,46,93
+Pablo Torres,UAE Team Emirates XRG,Spain,174,0,19,47,33,20,42,50,31,31,36,36
+Adam Yates,UAE Team Emirates XRG,Great Britain,173,58,32,94,66,31,89,96,60,80,92,85
+Marc Soler,UAE Team Emirates XRG,Spain,186,68,31,86,46,27,72,90,46,54,80,50
+Domen Novak,UAE Team Emirates XRG,Slovenia,181,70,29,50,34,20,46,52,35,26,44,44
+Sebastian Molano,UAE Team Emirates XRG,Colombia,180,72,30,81,79,65,58,25,91,20,36,80
+Pavel Sivakov,UAE Team Emirates XRG,France,188,70,27,89,64,26,90,89,52,60,86,89
+Ivo Oliveira,UAE Team Emirates XRG,Portugal,185,68,28,63,57,25,40,24,62,51,34,55
+Jay Vine,UAE Team Emirates XRG,Australia,184,69,29,85,75,20,63,83,44,91,56,69
+Felix Großschartner,UAE Team Emirates XRG,Austria,184,64,31,83,69,23,81,72,54,83,69,79
+Killian Verschuren,Unibet Tietema Rockets,France,165,54,22,41,29,20,42,40,30,20,32,46
+Wessel Mouris,Unibet Tietema Rockets,Netherlands,0,0,22,48,48,26,35,23,40,53,34,49
+Charlie Paige,Unibet Tietema Rockets,Great Britain,0,0,23,33,27,20,34,29,29,20,30,36
+Sergio Meris,Unibet Tietema Rockets,Italy,180,0,23,43,36,20,48,26,33,20,26,48
+Odd Christian Eiking,Unibet Tietema Rockets,Norway,181,75,30,72,45,26,79,60,49,31,46,77
+Adrien Maire,Unibet Tietema Rockets,France,0,0,24,44,31,20,44,41,33,20,39,37
+Adam Toupalik,Unibet Tietema Rockets,Czech Republic,175,65,28,51,43,31,55,28,45,35,33,55
+Kevin Inkelaar,Unibet Tietema Rockets,Netherlands,181,64,27,26,23,20,25,26,24,20,26,26
+Abram Stockman,Unibet Tietema Rockets,Belgium,182,67,28,52,46,32,40,24,57,32,29,59
+Lander Loockx,Unibet Tietema Rockets,Belgium,186,71,27,55,47,58,48,43,37,20,46,51
+Cedrik Bakke Christophersen,Unibet Tietema Rockets,Norway,0,0,23,41,31,20,44,32,30,20,36,40
+Jelle Johannink,Unibet Tietema Rockets,Netherlands,0,0,28,51,47,50,52,25,41,20,35,59
+Sebastian Nielsen,Unibet Tietema Rockets,Denmark,0,0,24,51,45,25,39,20,59,20,26,54
+Andreas Stokbro Nielsen,Unibet Tietema Rockets,Denmark,183,70,27,50,48,50,46,28,50,24,34,56
+Owen Geleijn,Unibet Tietema Rockets,Netherlands,186,0,24,41,38,37,39,23,40,20,28,49
+Lukas Kubis,Unibet Tietema Rockets,Slovakia,175,70,24,57,54,21,54,32,58,44,37,61
+Martijn Budding,Unibet Tietema Rockets,Netherlands,187,74,29,49,43,31,36,21,56,20,23,54
+Hartthijs de Vries,Unibet Tietema Rockets,Netherlands,184,66,28,65,59,70,55,23,51,20,36,68
+Joren Bloem,Unibet Tietema Rockets,Netherlands,0,0,25,55,51,33,37,20,64,20,26,59
+Giovanni Carboni,Unibet Tietema Rockets,Italy,180,61,29,49,37,20,55,37,37,20,37,50
+Davide Bomboi,Unibet Tietema Rockets,Belgium,179,72,24,61,52,38,40,20,72,20,22,64
+Baptiste Huyet,Unibet Tietema Rockets,France,0,0,24,37,28,20,40,31,26,20,33,36
+Axel Huens,Unibet Tietema Rockets,France,0,0,23,55,48,50,56,26,49,20,33,64
+Tomas Kopecky,Unibet Tietema Rockets,Czech Republic,191,73,24,43,42,36,39,23,40,20,36,45
+Zeb Kyffin,Unibet Tietema Rockets,Great Britain,188,72,26,41,37,28,41,23,38,31,33,47
+Magnus Cort,Uno-X Mobility,Denmark,184,68,32,84,69,43,89,59,77,58,62,88
+Søren Wærenskjold,Uno-X Mobility,Norway,195,92,24,90,87,89,64,28,90,88,59,89
+Magnus Kulset,Uno-X Mobility,Norway,174,58,24,35,28,20,37,30,29,20,30,38
+Carl-Frederik Bevort,Uno-X Mobility,Denmark,184,0,21,44,42,20,37,20,45,40,23,52
+Stian Fredheim,Uno-X Mobility,Norway,184,72,21,68,56,44,39,22,80,20,27,73
+Simon Dalby,Uno-X Mobility,Denmark,0,0,22,51,33,25,58,37,32,20,35,55
+Johannes Kulset,Uno-X Mobility,Norway,175,58,20,57,40,32,59,56,41,31,48,58
+Henrik Pedersen,Uno-X Mobility,Denmark,181,0,20,42,43,29,36,23,43,36,30,47
+Amund Grøndahl Jansen,Uno-X Mobility,Norway,187,83,30,39,33,40,30,23,40,24,31,41
+Markus Hoelgaard,Uno-X Mobility,Norway,188,74,30,74,55,56,82,31,51,20,36,86
+Jonas Abrahamsen,Uno-X Mobility,Norway,183,78,29,88,84,91,83,42,80,32,43,91
+Anders Skaarseth,Uno-X Mobility,Norway,186,0,29,52,43,54,51,27,40,20,30,60
+Erlend Blikra,Uno-X Mobility,Norway,186,75,28,64,53,28,38,21,79,20,26,65
+Rasmus Tiller,Uno-X Mobility,Norway,187,84,28,86,85,91,78,32,69,35,42,90
+Rasmus Bøgh Wallin,Uno-X Mobility,Denmark,196,78,29,49,45,36,40,22,53,28,31,56
+Alexander Kristoff,Uno-X Mobility,Norway,183,78,37,91,90,89,82,32,94,24,43,92
+Andreas Kron,Uno-X Mobility,Denmark,177,63,26,77,54,20,87,57,49,20,42,85
+Erik Resell,Uno-X Mobility,Norway,192,0,28,62,54,65,52,24,52,20,30,70
+Fredrik Dversnes,Uno-X Mobility,Norway,0,0,27,68,56,42,72,34,58,37,50,81
+Andreas Leknessund,Uno-X Mobility,Norway,186,72,25,73,50,23,73,64,45,59,73,63
+Jonas Iversby Hvideberg,Uno-X Mobility,Norway,185,0,25,41,33,28,39,31,43,20,34,45
+Sakarias Koller Løland,Uno-X Mobility,Norway,180,0,23,40,39,23,37,28,42,20,31,43
+Tobias Halland Johannessen,Uno-X Mobility,Norway,176,62,25,85,69,70,90,76,61,31,64,89
+Anders Halland Johannessen,Uno-X Mobility,Norway,176,0,25,45,33,20,49,36,33,20,35,46
+Ådne Holter,Uno-X Mobility,Norway,184,0,24,56,40,20,62,36,36,29,44,59
+Martin Urianstad Bugge,Uno-X Mobility,Norway,0,0,25,57,47,50,59,31,51,20,37,65
+William Blume Levy,Uno-X Mobility,Denmark,192,0,24,57,49,52,50,27,57,20,29,68
+Matteo Scalco,VF Group-Bardiani CSF-Faizanè,Italy,0,0,20,42,35,24,46,32,31,20,32,48
+Alessandro Pinarello,VF Group-Bardiani CSF-Faizanè,Italy,0,0,21,56,41,20,63,32,37,21,38,64
+Mattia Pinazzi,VF Group-Bardiani CSF-Faizanè,Italy,0,0,23,51,43,24,35,22,61,20,26,34
+Federico Biagini,VF Group-Bardiani CSF-Faizanè,Italy,0,0,21,36,35,20,39,24,31,25,24,41
+Filippo Magli,VF Group-Bardiani CSF-Faizanè,Italy,0,0,25,63,50,33,66,32,59,20,43,72
+Alessio Martinelli,VF Group-Bardiani CSF-Faizanè,Italy,170,0,23,47,36,20,53,31,35,24,32,53
+Lorenzo Conforti,VF Group-Bardiani CSF-Faizanè,Italy,0,0,20,49,43,20,40,23,56,20,30,45
+Luca Paletti,VF Group-Bardiani CSF-Faizanè,Italy,0,0,20,36,32,24,38,29,32,20,32,39
+Luca Covili,VF Group-Bardiani CSF-Faizanè,Italy,180,58,27,62,39,20,63,60,38,27,59,57
+Alex Tolio,VF Group-Bardiani CSF-Faizanè,Italy,0,0,24,49,36,20,53,41,33,20,40,52
+Vicente Rojas,VF Group-Bardiani CSF-Faizanè,Chile,169,0,22,38,31,20,40,34,31,20,33,39
+Filippo Turconi,VF Group-Bardiani CSF-Faizanè,Italy,0,0,19,37,31,20,40,26,29,20,24,42
+Andrea Montagner,VF Group-Bardiani CSF-Faizanè,Italy,0,0,18,23,23,20,20,20,20,25,20,23
+Santiago Ferraro,VF Group-Bardiani CSF-Faizanè,Italy,0,0,18,20,20,20,20,20,20,20,20,20
+Martin Marcellusi,VF Group-Bardiani CSF-Faizanè,Italy,172,62,24,60,48,20,65,34,56,20,37,69
+Manuele Tarozzi,VF Group-Bardiani CSF-Faizanè,Italy,0,0,26,53,38,20,47,53,48,20,45,42
+Luca Colnaghi,VF Group-Bardiani CSF-Faizanè,Italy,171,63,26,61,49,24,42,33,74,20,31,50
+Enrico Zanoncello,VF Group-Bardiani CSF-Faizanè,Italy,170,64,27,72,60,23,48,34,86,20,40,45
+Filippo Fiorelli,VF Group-Bardiani CSF-Faizanè,Italy,0,0,30,70,58,27,66,38,78,22,35,73
+Luca De Meester,Wagner Bazin WB,Belgium,187,73,25,53,47,52,37,22,56,20,27,61
+Axandre Van Petegem,Wagner Bazin WB,Belgium,184,67,23,29,28,25,25,20,31,20,22,32
+Giacomo Villa,Wagner Bazin WB,Italy,0,0,23,48,39,20,53,26,42,20,30,55
+Jelle Vermoote,Wagner Bazin WB,Belgium,185,73,26,42,37,43,37,23,40,20,24,48
+Michiel Lambrecht,Wagner Bazin WB,Belgium,191,75,21,40,36,30,39,23,41,20,32,47
+Marco Tizza,Wagner Bazin WB,Italy,173,58,32,62,46,20,69,30,49,20,37,71
+Kenneth Van Rooy,Wagner Bazin WB,Belgium,179,70,31,63,53,52,52,29,67,20,32,71
+Leander Van Hautegem,Wagner Bazin WB,Belgium,186,64,21,37,34,26,37,28,37,20,29,43
+Henri-Francois Haquin,Wagner Bazin WB,France,185,74,22,29,29,20,30,20,30,20,24,32
+Victor Papon,Wagner Bazin WB,France,175,69,24,25,26,20,26,20,24,20,20,28
+Floris De Tier,Wagner Bazin WB,Belgium,172,60,33,60,40,36,68,34,39,20,43,67
+Pierre Barbier,Wagner Bazin WB,France,176,69,27,64,58,38,46,22,74,20,25,70
+Davide Persico,Wagner Bazin WB,Italy,175,65,23,58,49,26,42,22,70,20,26,54
+Jens Reynders,Wagner Bazin WB,Belgium,184,76,26,58,51,56,48,24,58,20,27,70
+Sasha Weemaes,Wagner Bazin WB,Belgium,177,73,26,59,50,24,34,21,75,20,27,51
+Johan Meens,Wagner Bazin WB,Belgium,174,62,25,54,41,23,59,26,43,20,38,59
+Jocelyn Baguelin,Wagner Bazin WB,France,178,72,25,26,25,20,27,20,24,20,25,27
+Quentin Bezza,Wagner Bazin WB,France,184,76,26,44,36,25,30,22,32,40,27,36
+Cériel Desal,Wagner Bazin WB,Belgium,189,76,25,68,58,73,49,23,58,20,31,76
+Louka Matthys,Wagner Bazin WB,Belgium,182,62,25,47,33,20,52,28,36,20,31,53
+Loic Vliegen,Wagner Bazin WB,Belgium,184,70,31,56,48,58,54,27,44,24,36,63
+Tom Portsmouth,Wagner Bazin WB,Great Britain,181,70,23,31,29,22,27,21,33,20,24,37
+Mike Teunissen,XDS Astana Team,Netherlands,184,73,32,88,85,90,78,34,90,29,51,91
+Alberto Bettiol,XDS Astana Team,Italy,180,69,31,88,81,81,90,44,76,75,58,91
+Matteo Malucelli,XDS Astana Team,Italy,171,68,31,68,59,24,43,28,82,20,28,45
+Darren van Bekkum,XDS Astana Team,Netherlands,176,62,22,41,33,20,42,41,30,20,35,40
+Davide Ballerini,XDS Astana Team,Italy,183,71,30,75,65,65,58,25,82,32,38,75
+Aaron Gate,XDS Astana Team,New Zealand,181,71,34,63,55,27,55,26,55,52,53,56
+Florian Kajamini,XDS Astana Team,Italy,0,0,21,41,32,20,44,38,30,20,31,45
+Fausto Masnada,XDS Astana Team,Italy,182,65,31,59,42,20,66,43,39,31,40,67
+Alessandro Romele,XDS Astana Team,Italy,186,71,21,45,45,27,45,30,42,29,40,44
+Haoyu Su,XDS Astana Team,China,179,64,24,34,32,20,32,28,28,33,28,35
+Davide Toneatti,XDS Astana Team,Italy,180,65,23,45,36,20,48,39,34,20,38,46
+Nicolas Vinokurov,XDS Astana Team,Kazakhstan,184,65,22,38,36,20,38,31,32,35,36,37
+Martin López,XDS Astana Team,Ecuador,160,55,24,56,32,20,52,54,32,20,56,42
+Lorenzo Fortunato,XDS Astana Team,Italy,170,57,28,85,41,20,79,87,40,32,85,63
+Simone Velasco,XDS Astana Team,Italy,170,59,29,81,62,20,89,57,66,47,50,90
+Cees Bol,XDS Astana Team,Netherlands,194,83,29,75,64,47,56,28,86,39,43,74
+Nicola Conci,XDS Astana Team,Italy,185,68,28,64,42,20,69,57,40,20,53,57
+Max Kanter,XDS Astana Team,Germany,176,68,27,78,68,49,65,27,89,20,35,79
+Cristian Scaroni,XDS Astana Team,Italy,175,63,27,76,54,20,85,58,54,39,51,79
+Anton Kuzmin,XDS Astana Team,Kazakhstan,186,66,28,41,38,20,42,33,33,37,39,42
+Ide Schelling,XDS Astana Team,Netherlands,182,66,26,55,47,52,55,30,56,34,33,56
+Anthon Charmig,XDS Astana Team,Denmark,182,66,26,58,42,43,63,44,42,28,47,57
+Clément Champoussin,XDS Astana Team,France,180,61,26,80,55,33,90,61,53,32,52,89
+Sergio Higuita,XDS Astana Team,Colombia,166,57,27,82,52,20,86,74,51,37,74,81
+Harold Tejada,XDS Astana Team,Colombia,180,63,27,77,55,20,77,71,48,75,62,48
+Michele Gazzoli,XDS Astana Team,Italy,180,76,25,47,40,33,42,27,52,20,31,44
+Henok Mulubrhan,XDS Astana Team,Eritrea,176,60,25,66,51,20,67,61,53,35,57,64
+Yevgeniy Fedorov,XDS Astana Team,Kazakhstan,193,80,24,72,66,76,52,28,59,66,34,76
+Diego Ulissi,XDS Astana Team,Italy,175,63,35,87,66,20,90,79,62,52,78,90
+Wout Poels,XDS Astana Team,Netherlands,186,66,37,86,41,20,78,90,42,32,79,56

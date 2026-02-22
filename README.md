@@ -1,0 +1,76 @@
+# Comparador de Perfiles de Ciclistas
+
+Aplicación web para encontrar ciclistas con perfiles similares basándose en sus características de rendimiento.
+
+## Características
+
+- **Búsqueda inteligente** con autocompletado
+- **Algoritmo de similitud avanzado** que combina:
+  - Similitud de coseno ponderada (60%)
+  - Distancia euclidiana normalizada (25%)
+  - Características físicas (15%)
+- **Visualización con gráfico radar** para comparar perfiles
+- **Filtros por edad** y bonificación por mismo tipo de perfil
+- **Interfaz limpia y funcional**
+
+## Tipos de Perfil
+
+- **Sprinter**: Especialista en velocidad punta
+- **Escalador**: Experto en montaña
+- **Clásicas**: Especialista en pavés y terreno irregular
+- **Contrarrelojista**: Experto en crono
+- **GC**: Líder de clasificación general
+- **Todoterreno**: Versátil en múltiples terrenos
+
+## Instalación
+
+1. Clonar el repositorio:
+```bash
+git clone <tu-repo>
+cd CyclingProject1
+```
+
+2. Instalar dependencias:
+```bash
+pip install -r requirements.txt
+```
+
+3. Ejecutar la aplicación:
+```bash
+python app.py
+```
+
+4. Abrir en el navegador:
+```
+http://127.0.0.1:5000
+```
+
+## Estructura del Proyecto
+
+```
+CyclingProject1/
+├── app.py                 # Backend Flask con algoritmo de similitud
+├── data/
+│   └── rider_points.csv   # Base de datos de ciclistas
+├── static/
+│   ├── app.js            # JavaScript modular
+│   └── styles.css        # Estilos
+└── templates/
+    └── index.html        # Estructura HTML
+```
+
+## Tecnologías
+
+- **Backend**: Flask, pandas, numpy, scikit-learn
+- **Frontend**: JavaScript (ES6+), Chart.js
+- **Algoritmo**: Machine Learning con normalización MinMax y StandardScaler
+
+## Datos
+
+El archivo `rider_points.csv` contiene información de ciclistas con las siguientes características:
+
+- **Name**: Nombre del ciclista
+- **Team**: Equipo actual
+- **Age, Length, Weight**: Datos físicos
+- **AVG**: Promedio general
+- **FLT, COB, HLL, MTN, SPR, ITT, GC, OR**: Puntuaciones por especialidad (0-100)

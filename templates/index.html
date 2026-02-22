@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparador de Ciclistas</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-top">
+                <h1>Similitud en Perfiles de Ciclistas</h1>
+                <div class="stats-inline">
+                    <span id="total_riders">-</span> ciclistas
+                </div>
+            </div>
+            <p class="tagline">Encuentra ciclistas con perfiles similares</p>
+        </header>
+
+        <section class="controls">
+            <div class="search-main">
+                <label>Buscar ciclista</label>
+                <div class="search-wrapper">
+                    <input type="text" id="search_input" placeholder="ej: Pogacar, Van Aert, Philipsen..." autocomplete="off">
+                    <div id="search_results" class="search-results"></div>
+                </div>
+            </div>
+        </section>
+
+        <div id="loading" class="loading" style="display: none;">
+            <div class="spinner"></div>
+            <p>Cargando...</p>
+        </div>
+
+        <div id="error_message" class="error-message" style="display: none;"></div>
+
+        <main id="dashboard" style="display: none;">
+            <div class="top-row">
+                <div id="rider_card" class="card"></div>
+                <div class="chart-container">
+                    <h3 class="chart-title">Comparación de Perfiles</h3>
+                    <canvas id="radarChart"></canvas>
+                    <div class="legend-custom" id="legend"></div>
+                </div>
+            </div>
+
+            <div class="stats-comparison" id="stats_comparison"></div>
+
+            <div class="results-section">
+                <div class="section-header">
+                    <h3>Ciclistas Similares</h3>
+                    <div class="similarity-info">Ordenados por similitud de perfil</div>
+                </div>
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Nombre</th>
+                                <th>especialidad</th>
+                                <th>Equipo</th>
+                                <th>Edad</th>
+                                <th>Media</th>
+                                <th>Similitud</th>
+                                <th>Coincide en</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody id="similar_body"></tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
