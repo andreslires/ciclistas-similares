@@ -99,19 +99,28 @@ def calculate_similarity(rider_name, max_results=10):
     physical_rider = rider_row[PHYSICAL_FEATURES].values[0]
     physical_all = df_scaled[PHYSICAL_FEATURES].values
     
-    # Crear máscara para valores válidos (no NaN)
-    valid_mask = ~(np.isnan(physical_rider) | np.isnan(physical_all).any(axis=1))
-    
     # Inicializar scores de física con 0.5 (neutral si no hay datos)
     physical_scores = np.full(len(physical_all), 0.5)
     
-    if valid_mask.sum() > 1:  # Si hay al menos 2 registros con datos válidos
-        valid_indices = np.where(valid_mask)[0]
-        valid_rider = physical_rider[~np.isnan(physical_rider)]
-        valid_all = physical_all[valid_indices][:, ~np.isnan(physical_rider)]
+    # Encontrar características válidas (no NaN) en el ciclista seleccionado
+    valid_features = ~np.isnan(physical_rider)
+    
+    if valid_features.sum() > 0:  # Si hay al menos una característica física disponible
+        # Filtrar solo características válidas
+        valid_rider_features = physical_rider[valid_features]
+        valid_all_features = physical_all[:, valid_features]
         
-        if valid_all.size > 0:
-            physical_dist = euclidean_distances(valid_all, valid_rider.reshape(1, -1)).flatten()
+        # Filtrar registros donde todas las características válidas tienen datos
+        has_valid_data = ~np.isnan(valid_all_features).any(axis=1)
+        
+        if has_valid_data.sum() > 0:  # Si hay registros con datos válidos
+            valid_indices = np.where(has_valid_data)[0]
+            valid_all_features_clean = valid_all_features[has_valid_data]
+            
+            physical_dist = euclidean_distances(
+                valid_all_features_clean, 
+                valid_rider_features.reshape(1, -1)
+            ).flatten()
             max_physical = np.max(physical_dist)
             physical_dist_norm = 1 - (physical_dist / max_physical) if max_physical > 0 else np.ones_like(physical_dist)
             physical_scores[valid_indices] = physical_dist_norm
