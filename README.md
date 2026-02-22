@@ -44,7 +44,7 @@ http://127.0.0.1:5000
 ## Estructura del Proyecto
 
 ```
-CyclingProject1/
+ciclistas-similares/
 ├── app.py                 
 ├── data/
 │   └── rider_points.csv   
