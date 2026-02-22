@@ -15,14 +15,23 @@ PHYSICAL_FEATURES = ['Length', 'Weight', 'Age']
 df_raw = pd.read_csv('data/rider_points.csv')
 df_display = df_raw.copy() # Para mostrar valores reales
 
+# Reemplazar 0s con NaN en características físicas (valores desconocidos)
+df_raw['Length'] = df_raw['Length'].replace(0, np.nan)
+df_raw['Weight'] = df_raw['Weight'].replace(0, np.nan)
+
 # Normalización para especialidades
 scaler_specialty = MinMaxScaler()
 df_scaled = df_raw.copy()
 df_scaled[SPECIALTY_FEATURES] = scaler_specialty.fit_transform(df_raw[SPECIALTY_FEATURES])
 
-# Normalización para características físicas
+# Normalización para características físicas (ignorando NaN)
 scaler_physical = StandardScaler()
-df_scaled[PHYSICAL_FEATURES] = scaler_physical.fit_transform(df_raw[PHYSICAL_FEATURES])
+# Calcular media y desv. estándar ignorando NaN
+physical_mean = df_raw[PHYSICAL_FEATURES].mean()
+physical_std = df_raw[PHYSICAL_FEATURES].std()
+# Normalizar manualmente para preservar NaN
+for feature in PHYSICAL_FEATURES:
+    df_scaled[feature] = (df_raw[feature] - physical_mean[feature]) / physical_std[feature]
 
 
 # Función para identificar el perfil dominante del ciclista
@@ -31,7 +40,7 @@ def identify_rider_profile(rider_data):
     specialty_scores = {
         'Sprinter': rider_data['SPR'],
         'Escalador': (rider_data['MTN'] + rider_data['HLL']) / 2,
-        'Clásicas': (rider_data['COB'] + rider_data['FLT']) / 2,
+        'Clásicas': (rider_data['COB'] + rider_data['FLT'] + rider_data['OR'] + rider_data['HLL']) / 4,
         'Contrarrelojista': rider_data['ITT'],
         'GC': rider_data['GC'],
         'Todoterreno': rider_data['OR']
@@ -86,11 +95,26 @@ def calculate_similarity(rider_name, max_results=10):
     euclidean_scores = 1 - (euclidean_dist / max_dist) if max_dist > 0 else np.ones_like(euclidean_dist)
     
     # 3. Similitud en características físicas (15% del score)
+    # Solo considerar si ambos tienen datos disponibles
     physical_rider = rider_row[PHYSICAL_FEATURES].values[0]
     physical_all = df_scaled[PHYSICAL_FEATURES].values
-    physical_dist = euclidean_distances(physical_all, physical_rider.reshape(1, -1)).flatten()
-    max_physical = np.max(physical_dist)
-    physical_scores = 1 - (physical_dist / max_physical) if max_physical > 0 else np.ones_like(physical_dist)
+    
+    # Crear máscara para valores válidos (no NaN)
+    valid_mask = ~(np.isnan(physical_rider) | np.isnan(physical_all).any(axis=1))
+    
+    # Inicializar scores de física con 0.5 (neutral si no hay datos)
+    physical_scores = np.full(len(physical_all), 0.5)
+    
+    if valid_mask.sum() > 1:  # Si hay al menos 2 registros con datos válidos
+        valid_indices = np.where(valid_mask)[0]
+        valid_rider = physical_rider[~np.isnan(physical_rider)]
+        valid_all = physical_all[valid_indices][:, ~np.isnan(physical_rider)]
+        
+        if valid_all.size > 0:
+            physical_dist = euclidean_distances(valid_all, valid_rider.reshape(1, -1)).flatten()
+            max_physical = np.max(physical_dist)
+            physical_dist_norm = 1 - (physical_dist / max_physical) if max_physical > 0 else np.ones_like(physical_dist)
+            physical_scores[valid_indices] = physical_dist_norm
     
     # Combinar scores con pesos
     combined_scores = (
