@@ -24,11 +24,7 @@ Aplicación web para encontrar ciclistas con perfiles similares basándose en su
 
 ## Instalación
 
-1. Clonar el repositorio:
-```bash
-git clone <tu-repo>
-cd CyclingProject1
-```
+1. Clonar el repositorio
 
 2. Instalar dependencias:
 ```bash
@@ -49,21 +45,21 @@ http://127.0.0.1:5000
 
 ```
 CyclingProject1/
-├── app.py                 # Backend Flask con algoritmo de similitud
+├── app.py                 
 ├── data/
-│   └── rider_points.csv   # Base de datos de ciclistas
+│   └── rider_points.csv   
 ├── static/
-│   ├── app.js            # JavaScript modular
-│   └── styles.css        # Estilos
+│   ├── app.js            
+│   └── styles.css        
 └── templates/
-    └── index.html        # Estructura HTML
+    └── index.html       
 ```
 
 ## Tecnologías
 
 - **Backend**: Flask, pandas, numpy, scikit-learn
-- **Frontend**: JavaScript (ES6+), Chart.js
-- **Algoritmo**: Machine Learning con normalización MinMax y StandardScaler
+- **Frontend**: HTML, CSS, JavaScript
+- **Algoritmo**: Similitud de coseno, distancia euclidiana, normalización
 
 ## Datos
 
@@ -74,3 +70,5 @@ El archivo `rider_points.csv` contiene información de ciclistas con las siguien
 - **Age, Length, Weight**: Datos físicos
 - **AVG**: Promedio general
 - **FLT, COB, HLL, MTN, SPR, ITT, GC, OR**: Puntuaciones por especialidad (0-100)
+
+El dataset se ha construido a partir de datos de FirstCycling en 2025.
