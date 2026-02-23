@@ -2,6 +2,14 @@
 
 Aplicación web para encontrar ciclistas con perfiles similares basándose en sus características de rendimiento.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Flask](https://img.shields.io/badge/Framework-Flask-lightgrey)
+![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
+![Render](https://img.shields.io/badge/Deploy-Render-brightgreen)
+
+ * **Live Demo**: [https://ciclistas-similares.onrender.com](https://ciclistas-similares.onrender.com)
+
+
 ## Características
 
 - **Búsqueda inteligente** con autocompletado

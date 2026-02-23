@@ -6,18 +6,23 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 
 app = Flask(__name__)
 
+
+# ---------------------------------
+# Configuración y Preprocesamiento
+# ---------------------------------
+
 # Definición de características
 FEATURES = ['AVG', 'FLT', 'COB', 'HLL', 'MTN', 'SPR', 'ITT', 'GC', 'OR']
 SPECIALTY_FEATURES = ['FLT', 'COB', 'HLL', 'MTN', 'SPR', 'ITT', 'GC', 'OR']
 PHYSICAL_FEATURES = ['Length', 'Weight', 'Age']
 
-# Carga y Preprocesamiento (Se ejecuta una sola vez al iniciar)
+# Carga y Preprocesamiento
 df_raw = pd.read_csv('data/rider_points.csv')
 df_display = df_raw.copy() # Para mostrar valores reales
 
 # Reemplazar 0s con NaN en características físicas (valores desconocidos)
-df_raw['Length'] = df_raw['Length'].replace(0, np.nan)
-df_raw['Weight'] = df_raw['Weight'].replace(0, np.nan)
+df_raw['Length'] = df_raw['Length'].replace(0, np.nan) # Altura desconocida
+df_raw['Weight'] = df_raw['Weight'].replace(0, np.nan) # Peso desconocido
 
 # Normalización para especialidades
 scaler_specialty = MinMaxScaler()
@@ -34,6 +39,10 @@ for feature in PHYSICAL_FEATURES:
     df_scaled[feature] = (df_raw[feature] - physical_mean[feature]) / physical_std[feature]
 
 
+# ------------------------------------
+# Funciones auxiliares para similitud
+# ------------------------------------
+
 # Función para identificar el perfil dominante del ciclista
 def identify_rider_profile(rider_data):
     """Identifica el perfil dominante del ciclista"""
@@ -47,10 +56,11 @@ def identify_rider_profile(rider_data):
     }
     return max(specialty_scores, key=specialty_scores.get), max(specialty_scores.values())
 
-# Función para calcular similitud con pesos dinámicos basados en las fortalezas del ciclista
+# Función para calcular similitud
 def calculate_weighted_similarity(rider_vector, all_vectors, rider_strengths):
     """Calcula similitud con pesos dinámicos basados en las fortalezas del ciclista"""
     # Crear pesos: dar más importancia a las especialidades fuertes del ciclista
+    # Evitamos que el modelo se enfoque en las debilidades
     weights = np.ones(len(SPECIALTY_FEATURES))
     for i, feature in enumerate(SPECIALTY_FEATURES):
         if rider_strengths[i] > 70:  # Especialidad fuerte
@@ -65,7 +75,6 @@ def calculate_weighted_similarity(rider_vector, all_vectors, rider_strengths):
     weighted_all = all_vectors * weights
     
     return cosine_similarity(weighted_all, weighted_rider.reshape(1, -1)).flatten()
-
 
 # Función principal para calcular similitud con múltiples métricas y filtros inteligentes
 def calculate_similarity(rider_name, max_results=10):
@@ -92,14 +101,17 @@ def calculate_similarity(rider_name, max_results=10):
     # 2. Distancia Euclidiana Inversa Normalizada (25% del score)
     euclidean_dist = euclidean_distances(all_vectors, rider_vector.reshape(1, -1)).flatten()
     max_dist = np.max(euclidean_dist)
-    euclidean_scores = 1 - (euclidean_dist / max_dist) if max_dist > 0 else np.ones_like(euclidean_dist)
+    if max_dist > 0:
+        euclidean_scores = 1 - (euclidean_dist / max_dist)
+    else:
+        euclidean_scores = np.ones_like(euclidean_dist)
     
     # 3. Similitud en características físicas (15% del score)
     # Solo considerar si ambos tienen datos disponibles
     physical_rider = rider_row[PHYSICAL_FEATURES].values[0]
     physical_all = df_scaled[PHYSICAL_FEATURES].values
     
-    # Inicializar scores de física con 0.5 (neutral si no hay datos)
+    # Inicializar scores de físico con 0.5
     physical_scores = np.full(len(physical_all), 0.5)
     
     # Encontrar características válidas (no NaN) en el ciclista seleccionado
@@ -117,20 +129,21 @@ def calculate_similarity(rider_name, max_results=10):
             valid_indices = np.where(has_valid_data)[0]
             valid_all_features_clean = valid_all_features[has_valid_data]
             
+            # Calcular distancia euclidiana solo con características válidas
             physical_dist = euclidean_distances(
                 valid_all_features_clean, 
                 valid_rider_features.reshape(1, -1)
             ).flatten()
+            # Normalizar distancia física
             max_physical = np.max(physical_dist)
-            physical_dist_norm = 1 - (physical_dist / max_physical) if max_physical > 0 else np.ones_like(physical_dist)
+            if max_physical > 0:
+                physical_dist_norm = 1 - (physical_dist / max_physical)
+            else:
+                physical_dist_norm = np.zeros_like(physical_dist)
             physical_scores[valid_indices] = physical_dist_norm
     
-    # Combinar scores con pesos
-    combined_scores = (
-        0.60 * cosine_scores +
-        0.25 * euclidean_scores +
-        0.15 * physical_scores
-    )
+    # Calcular score de similitud final combinando las métricas
+    combined_scores = (0.60 * cosine_scores + 0.25 * euclidean_scores + 0.15 * physical_scores)
     
     # Crear DataFrame de resultados
     results = df_display.copy()
@@ -148,14 +161,8 @@ def calculate_similarity(rider_name, max_results=10):
     results['SimilarityScore'] = results['SimilarityScore'] - results['AgePenalty']
     
     # 3. Bonificar ligeramente ciclistas del mismo perfil
-    results['RiderProfile'] = results.apply(
-        lambda row: identify_rider_profile(row)[0], axis=1
-    )
-    results['ProfileBonus'] = np.where(
-        results['RiderProfile'] == rider_profile,
-        0.03,
-        0.0
-    )
+    results['RiderProfile'] = results.apply(lambda row: identify_rider_profile(row)[0], axis=1)
+    results['ProfileBonus'] = np.where(results['RiderProfile'] == rider_profile, 0.03, 0.0)
     results['SimilarityScore'] = results['SimilarityScore'] + results['ProfileBonus']
     
     # 4. Asegurar que el score esté entre 0 y 1
@@ -183,23 +190,26 @@ def calculate_similarity(rider_name, max_results=10):
     
     return result_list, rider_profile
 
+
+# ----------------------------
+# Rutas de la aplicación Flask
+# ----------------------------
+
+# Ruta principal para renderizar la página
 @app.route('/')
 def index():
     return render_template('index.html')
 
+# Ruta para obtener ciclistas
 @app.route('/get_riders')
 def get_riders():
-    team = request.args.get('team')
-    if team:
-        riders = sorted(df_raw[df_raw['Team'] == team]['Name'].tolist())
-    else:
-        riders = sorted(df_raw['Name'].tolist())
+    riders = sorted(df_raw['Name'].tolist())
     return jsonify({'riders': riders})
 
+# Ruta para búsqueda de ciclistas (con filtro por query)
 @app.route('/search_riders')
 def search_riders():
     query = request.args.get('query', '')
-    team = request.args.get('team', '')
     
     # Filtrar por query
     filtered_df = df_raw[df_raw['Name'].str.contains(query, case=False, na=False)]
@@ -207,6 +217,7 @@ def search_riders():
     riders = sorted(filtered_df['Name'].tolist())
     return jsonify({'riders': riders})
 
+# Ruta para obtener datos de un ciclista específico y sus similares
 @app.route('/get_rider_data')
 def get_rider_data():
     name = request.args.get('name')
