@@ -60,8 +60,6 @@ async function init() {
     }
 }
 
-
-
 // Búsqueda
 async function searchRiders(query) {
     clearTimeout(state.searchTimeout);
@@ -106,8 +104,6 @@ function selectRider(name) {
     $('search_results').style.display = 'none';
     fetchRiderDetails(name);
 }
-
-
 
 // Detalles del ciclista
 async function fetchRiderDetails(name) {

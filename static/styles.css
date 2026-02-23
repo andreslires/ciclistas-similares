@@ -6,12 +6,14 @@
     --text: #2b2d42;
 }
 
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* Cuerpo */
 body { 
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; 
     background: #fafafa; 
@@ -20,6 +22,7 @@ body {
     padding: 15px;
 }
 
+/* Contenedor principal */
 .container { 
     max-width: 1300px; 
     margin: 0 auto; 
